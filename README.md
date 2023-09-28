@@ -1,1 +1,1 @@
-# Subtitles created for public projection
+# Subtitles created for public projection of movies or documentaries
