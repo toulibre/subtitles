@@ -12,16 +12,16 @@ C’est du même ordre que l’invention de l’écriture ou que l’invention d
 
 4
 00:01:32.480 --> 00:01:34.760
-L’informatique, c’est compliqué, parce que, en fait maintenant, 
+L’informatique, c’est compliqué, parce que, en fait maintenant,
 
 5
 00:01:35.320 --> 00:01:38.800
-il n’y a pas de limites à l’informatique. 
+il n’y a pas de limites à l’informatique.
 Tout ce qu’on fait aujourd’hui, c’est de l’informatique.
 
 6
 00:01:39.360 --> 00:01:46.400
-C’est quelque chose qui est partout, qui est indispensable, et même qu’on oublie, parce que ça fait partie du quotidien. 
+C’est quelque chose qui est partout, qui est indispensable, et même qu’on oublie, parce que ça fait partie du quotidien.
 
 7
 00:01:46.520 --> 00:01:51.160
@@ -29,7 +29,7 @@ Tout un chacun parle d’informatique, mais sans connaître vraiment la réalit�
 
 8
 00:01:56.040 --> 00:02:00.640
-Il n’y a pas une activité, il n’y a pas une famille qui, aujourd’hui, n’utilise pas l’informatique. 
+Il n’y a pas une activité, il n’y a pas une famille qui, aujourd’hui, n’utilise pas l’informatique.
 
 9
 00:02:01.000 --> 00:02:06.280
@@ -41,7 +41,7 @@ C’est essentiel de savoir qui contrôle ce développement, parce que qui contr
 
 11
 00:02:11.760 --> 00:02:16.480
-Les cinq plus grosses capitalisations mondiales aujourd’hui sont Google, Apple, Facebook, Amazon et Microsoft. 
+Les cinq plus grosses capitalisations mondiales aujourd’hui sont Google, Apple, Facebook, Amazon et Microsoft.
 
 12
 00:02:16.880 --> 00:02:21.480
@@ -49,19 +49,19 @@ Les cinq plus grosses capitalisations mondiales aujourd’hui sont Google, Apple
 
 13
 00:02:29.760 --> 00:02:31.280
-Ça je vais en parler, tiens ! 
+Ça je vais en parler, tiens !
 
 14
 00:02:32.800 --> 00:02:36.480
-L’informatique existe grâce au logiciel. 
+L’informatique existe grâce au logiciel.
 
 15
 00:02:48.000 --> 00:02:54.080
-Le logiciel a joué le même rôle et joue le même rôle, pour la révolution numérique, 
+Le logiciel a joué le même rôle et joue le même rôle, pour la révolution numérique,
 
 16
 00:02:54.400 --> 00:02:57.800
-que la machine a joué pour la révolution industrielle. 
+que la machine a joué pour la révolution industrielle.
 
 17
 00:03:05.000 --> 00:03:06.800
@@ -69,39 +69,39 @@ Il en est le moteur et l’objet.
 
 18
 00:03:07.080 --> 00:03:09.800
-Quand on a commencé à faire les premières machines, les machines à vapeur, 
+Quand on a commencé à faire les premières machines, les machines à vapeur,
 
 19
 00:03:10.120 --> 00:03:14.200
-on a pu extraire plus de charbon et plus de minerai de fer pour faire plus de machines, 
+on a pu extraire plus de charbon et plus de minerai de fer pour faire plus de machines,
 
 20
 00:03:14.480 --> 00:03:18.960
-qui ont servi à extraire encore plus de charbon et plus de fer pour faire encore plus de machines, 
+qui ont servi à extraire encore plus de charbon et plus de fer pour faire encore plus de machines,
 
 21
 00:03:19.160 --> 00:03:22.400
-et ainsi de suite… La machine a créé la machine et, partant de là, 
+et ainsi de suite… La machine a créé la machine et, partant de là,
 
 22
 00:03:22.520 --> 00:03:24.680
-deux siècles et demi après la révolution industrielle, 
+deux siècles et demi après la révolution industrielle,
 
 23
 00:03:24.800 --> 00:03:29.680
-on est dans une société dans laquelle on délègue la majorité de nos actions physiques à des machines. 
+on est dans une société dans laquelle on délègue la majorité de nos actions physiques à des machines.
 
 24
 00:03:30.000 --> 00:03:34.160
-On se déplace avec des machines, on lave notre linge avec des machines, on fait la cuisine avec les machines... 
+On se déplace avec des machines, on lave notre linge avec des machines, on fait la cuisine avec les machines...
 
 25
 00:03:34.640 --> 00:03:38.840
-Et donc, on a donc étendu le pouvoir d’action de notre corps, 
+Et donc, on a donc étendu le pouvoir d’action de notre corps,
 
 26
 00:03:38.960 --> 00:03:42.800
-parce que quand je bouge une pelle, j’enlève un décimètre cube de terre ; 
+parce que quand je bouge une pelle, j’enlève un décimètre cube de terre ;
 
 27
 00:03:43.080 --> 00:03:46.600
@@ -109,11 +109,11 @@ quand je bouge un levier d’une pelleteuse, ce sont vingt mètres cubes que je 
 
 28
 00:03:46.800 --> 00:03:52.000
-Avec la révolution numérique, nous sommes exactement dans le même processus de réactions en chaîne, 
+Avec la révolution numérique, nous sommes exactement dans le même processus de réactions en chaîne,
 
 29
 00:03:52.120 --> 00:03:55.840
-nous sommes en train de déléguer de plus en plus de nos processus intellectuels 
+nous sommes en train de déléguer de plus en plus de nos processus intellectuels
 
 30
 00:03:56.320 --> 00:03:59.280
@@ -121,11 +121,11 @@ nous sommes en train de déléguer de plus en plus de nos processus intellectuel
 
 31
 00:04:06.360 --> 00:04:10.840
-Pour moi, un ordinateur c'est, avant tout, une sorte de machine à calculer. 
+Pour moi, un ordinateur c'est, avant tout, une sorte de machine à calculer.
 
 32
 00:04:15.160 --> 00:04:21.000
-Et suivant le niveau de puissance et le niveau d’évolution finalement de cette machine à calculer, 
+Et suivant le niveau de puissance et le niveau d’évolution finalement de cette machine à calculer,
 
 33
 00:04:21.400 --> 00:04:26.360
@@ -137,7 +137,7 @@ addition, soustraction, multiplication, etc.
 
 35
 00:04:29.240 --> 00:04:35.040
-Et donc, lorsqu’on prend cette base-là, de « machine à calculer » entre guillemets, 
+Et donc, lorsqu’on prend cette base-là, de « machine à calculer » entre guillemets,
 
 36
 00:04:35.160 --> 00:04:41.760
@@ -149,7 +149,7 @@ et qu’on lui adjoint un certain nombre d’accessoires – un écran, un clavi
 
 38
 00:04:47.880 --> 00:04:51.240
-Un ordinateur, c’est un téléphone, c’est une montre, c’est une machine à laver. 
+Un ordinateur, c’est un téléphone, c’est une montre, c’est une machine à laver.
 
 39
 00:04:57.600 --> 00:05:01.840
@@ -157,11 +157,11 @@ L’ordinateur peut se déguiser un petit peu pour terminer dans le frigo, dans 
 
 40
 00:05:01.920 --> 00:05:04.680
-On est entouré d’ordinateurs tout le temps et on ne s’en rend pas compte. 
+On est entouré d’ordinateurs tout le temps et on ne s’en rend pas compte.
 
 41
 00:05:07.080 --> 00:05:10.720
-Pour qu’un ordinateur puisse faire les tâches pour lesquelles on l’a prévu, 
+Pour qu’un ordinateur puisse faire les tâches pour lesquelles on l’a prévu,
 
 42
 00:05:11.280 --> 00:05:14.560
@@ -169,11 +169,11 @@ il lui faut du code informatique qui s’appelle du logiciel.
 
 43
 00:05:18.400 --> 00:05:20.880
-C’est ce qui va faire l’interface entre 
+C’est ce qui va faire l’interface entre
 
 44
-00:05:21.040 --> 00:05:25.360 
-les besoins de l’utilisateur, c’est-à-dire la personne qui est derrière le clavier, 
+00:05:21.040 --> 00:05:25.360
+les besoins de l’utilisateur, c’est-à-dire la personne qui est derrière le clavier,
 
 45
 00:05:25.480 --> 00:05:28.720
@@ -181,19 +181,19 @@ et l’ordinateur qui, lui, ne sait que calculer.
 
 46
 00:05:28.760 --> 00:05:31.720
-L’ordinateur étant une machine, il ne communique que par des 0 et des 1, 
+L’ordinateur étant une machine, il ne communique que par des 0 et des 1,
 
 47
 00:05:31.800 --> 00:05:34.400
-et moi je ne sais pas communiquer par des 0 ou des 1, 
+et moi je ne sais pas communiquer par des 0 ou des 1,
 
 48
 00:05:34.480 --> 00:05:37.640
-donc je ne suis pas du tout apte à communiquer avec un ordinateur. 
+donc je ne suis pas du tout apte à communiquer avec un ordinateur.
 
 49
 00:05:41.480 --> 00:05:44.600
-Le logiciel c’est l’intermédiaire, c’est ce qui traduit ce que je veux, 
+Le logiciel c’est l’intermédiaire, c’est ce qui traduit ce que je veux,
 
 50
 00:05:44.960 --> 00:05:47.680
@@ -201,11 +201,11 @@ mais ce sera par le calcul de l’ordinateur derrière.
 
 51
 00:05:47.720 --> 00:05:49.360
-Vous avez un logiciel derrière tout. 
+Vous avez un logiciel derrière tout.
 
 52
 00:05:56.720 --> 00:06:00.240
-Un système d’exploitation, c’est un logiciel ; un système de traitement de texte, c’est un logiciel. 
+Un système d’exploitation, c’est un logiciel ; un système de traitement de texte, c’est un logiciel.
 
 53
 00:06:00.440 --> 00:06:05.640
@@ -213,11 +213,11 @@ C’est ce qui a été créé, par le développeur, pour vous permettre de faire
 
 54
 00:06:05.680 --> 00:06:10.400
-Le logiciel lui-même est composé de lignes de code, en gros une recette de cuisine 
+Le logiciel lui-même est composé de lignes de code, en gros une recette de cuisine
 
 55
 00:06:10.880 --> 00:06:17.360
-qui permet de dire « si, à tel moment l’utilisateur fait ça, toi tu dois faire ça en tant qu’ordinateur ». 
+qui permet de dire « si, à tel moment l’utilisateur fait ça, toi tu dois faire ça en tant qu’ordinateur ».
 
 56
 00:06:17.600 --> 00:06:24.080
@@ -225,15 +225,15 @@ Et donc, ce sont ces lignes de code, cette recette de cuisine, qui permettent d�
 
 57
 00:06:24.320 --> 00:06:26.640
-On vous donne un logiciel qui est fini, 
+On vous donne un logiciel qui est fini,
 
 58
 00:06:26.960 --> 00:06:29.080
-mais comment a-t-il été fabriqué ? 
+mais comment a-t-il été fabriqué ?
 
 59
 00:06:29.120 --> 00:06:32.560
-Comment peut-on regarder chaque ingrédient, quelle est sa proportion ? 
+Comment peut-on regarder chaque ingrédient, quelle est sa proportion ?
 
 60
 00:06:32.640 --> 00:06:34.080
@@ -245,9 +245,9 @@ C'est le code bzz bzz bzz
 
 62
 00:07:15.360 --> 00:07:20.400
-Quand nous faisions nos études, nous avons appris la physique, 
-nous avons eu des heures et des heures de physique, pourquoi ? 
-Parce que le monde est physique, 
+Quand nous faisions nos études, nous avons appris la physique,
+nous avons eu des heures et des heures de physique, pourquoi ?
+Parce que le monde est physique,
 
 63
 00:07:20.840 --> 00:07:23.480
@@ -255,22 +255,22 @@ donc il était important de comprendre les principes de la physique pour compren
 
 64
 00:07:29.280 --> 00:07:33.440
-Aujourd’hui, il est important de comprendre le code, 
-comment ça fonctionne, pas forcément pour devenir informaticien, 
+Aujourd’hui, il est important de comprendre le code,
+comment ça fonctionne, pas forcément pour devenir informaticien,
 
 65
 00:07:34.080 --> 00:07:40.360
-mais, comme le monde est devenu informatique, 
-comprendre le code, comprendre les logiciels, 
+mais, comme le monde est devenu informatique,
+comprendre le code, comprendre les logiciels,
 comprendre l’informatique nous permet de comprendre ce monde-là.
 
 66
 00:07:40.400 --> 00:07:43.680
-Le code source, typiquement, le grand public ne le voit pas. 
+Le code source, typiquement, le grand public ne le voit pas.
 
 67
 00:07:43.760 --> 00:07:47.240
-Même si on commence à initier les enfants à la programmation 
+Même si on commence à initier les enfants à la programmation
 
 68
 00:07:47.280 --> 00:07:51.640
@@ -282,19 +282,19 @@ et qu’on augmente la culture générale sur ce qu’est la programmation dans 
 
 70
 00:07:58.080 --> 00:08:00.840
-Le code source s’exprime dans un langage informatique 
+Le code source s’exprime dans un langage informatique
 
 71
 00:08:01.600 --> 00:08:05.880
-parce que les langages humains ne convenaient pas pour discuter avec les ordinateurs. 
+parce que les langages humains ne convenaient pas pour discuter avec les ordinateurs.
 
 72
 00:08:06.320 --> 00:08:11.320
-Les langages humains ont cette capacité magnifique d’être ambigus, 
+Les langages humains ont cette capacité magnifique d’être ambigus,
 
 73
 00:08:11.520 --> 00:08:13.920
-ce qui permet les quiproquos dans les pièces de vaudeville, 
+ce qui permet les quiproquos dans les pièces de vaudeville,
 
 74
 00:08:14.360 --> 00:08:18.920
@@ -302,7 +302,7 @@ mais qui est très embêtant quand on fait tourner une centrale nucléaire ou un
 
 75
 00:08:19.400 --> 00:08:25.280
-Il est inacceptable quand vous cherchez à définir un processus pour être exécuté par un ordinateur, 
+Il est inacceptable quand vous cherchez à définir un processus pour être exécuté par un ordinateur,
 
 76
 00:08:25.480 --> 00:08:30.040
@@ -310,15 +310,15 @@ il soit compris et exécuté de deux façons différentes sur deux ordinateurs d
 
 77
 00:08:30.880 --> 00:08:34.680
-Lorsque vous lancez un logiciel qui vous permet, par exemple, de regarder un film, 
+Lorsque vous lancez un logiciel qui vous permet, par exemple, de regarder un film,
 
 78
 00:08:34.760 --> 00:08:37.840
-ce sont des millions, des milliards de calculs qui s’effectuent, 
+ce sont des millions, des milliards de calculs qui s’effectuent,
 
 79
 00:08:38.040 --> 00:08:45.240
-mais, pour vous, ils vous affichent tout simplement une interface graphique 
+mais, pour vous, ils vous affichent tout simplement une interface graphique
 qui vous permet d’appuyer sur « lecture » et qui vont lancer la lecture de votre film.
 
 80
@@ -327,11 +327,11 @@ Au tout début de l’informatique, dans les années 40 et 50, ce qui coûtait t
 
 81
 00:08:53.280 --> 00:09:00.840
-Donc le code, le logiciel qui faisait tourner ces machines, ces ordinateurs, était libre, 
+Donc le code, le logiciel qui faisait tourner ces machines, ces ordinateurs, était libre,
 
 82
 00:09:00.920 --> 00:09:04.800
-parce qu’on ne s’était même pas posé la question de savoir si c’était libre ou pas libre. 
+parce qu’on ne s’était même pas posé la question de savoir si c’était libre ou pas libre.
 
 83
 00:09:04.960 --> 00:09:09.960
@@ -347,11 +347,11 @@ et à vouloir masquer les codes sources.
 
 86
 00:09:27.360 --> 00:09:30.640
-Contrairement au logiciel libre où on donne le code source, 
+Contrairement au logiciel libre où on donne le code source,
 
 87
 00:09:30.840 --> 00:09:32.440
-le logiciel propriétaire le garde pour lui. 
+le logiciel propriétaire le garde pour lui.
 
 88
 00:09:32.640 --> 00:09:34.160
@@ -359,23 +359,23 @@ Donc il en reste propriétaire.
 
 89
 00:09:55.040 --> 00:09:57.160
-Quand on parle de logiciel libre, 
+Quand on parle de logiciel libre,
 
 90
 00:09:57.360 --> 00:10:00.720
 ce n’est pas le logiciel qui est libre, c’est l’utilisateur qui l’est.
 
 91
-00:10:00.760 --> 00:10:07.160
-Stallman a défini ces quatre libertés fondamentales : utilisation, étude, modification, redistribution. 
+00:10:00.760 --> 00:10:07.040
+Stallman a défini ces quatre libertés fondamentales : utilisation, étude, modification, redistribution.
 
 92
-00:10:07.040 --> 00:10:08.800
-Pour lui c’est, quelque part, 
+00:10:07.160 --> 00:10:08.800
+Pour lui c’est, quelque part,
 
 93
 00:10:08.920 --> 00:10:12.240
-une définition politique de ce que devraient être les libertés fondamentales 
+une définition politique de ce que devraient être les libertés fondamentales
 
 94
 00:10:12.440 --> 00:10:13.320
@@ -383,11 +383,11 @@ par rapport au logiciel.
 
 95
 00:10:51.960 --> 00:10:55.680
-C’est ça la différence entre logiciel libre et non libre, 
+C’est ça la différence entre logiciel libre et non libre,
 
 96
 00:10:56.280 --> 00:10:58.800
-c’est que dans le logiciel non libre, on vous interdit de faire tout ça. 
+c’est que dans le logiciel non libre, on vous interdit de faire tout ça.
 
 97
 00:10:58.880 --> 00:11:00.560
@@ -395,31 +395,31 @@ On vous enlève ces libertés-là.
 
 98
 00:11:59.440 --> 00:12:02.760
-Le fait d’avoir accès à la recette de cuisine 
+Le fait d’avoir accès à la recette de cuisine
 
 99
 00:12:02.960 --> 00:12:06.280
-change absolument la façon qu’on a d’interagir 
+change absolument la façon qu’on a d’interagir
 
 100
 00:12:06.380 --> 00:12:09.200
-et de construire le monde logiciel de demain et d’aujourd’hui. 
+et de construire le monde logiciel de demain et d’aujourd’hui.
 
 101
 00:12:10.640 --> 00:12:16.160
-La liberté de pouvoir, à un moment donné, intervenir sur le code du logiciel 
+La liberté de pouvoir, à un moment donné, intervenir sur le code du logiciel
 
 102
 00:12:16.800 --> 00:12:20.040
-est une liberté qui est importante dans le fait 
+est une liberté qui est importante dans le fait
 
 103
 00:12:20.120 --> 00:12:21.800
-de faire en sorte que ces outils 
+de faire en sorte que ces outils
 
 104
 00:12:21.960 --> 00:12:24.160
-correspondent aux citoyens 
+correspondent aux citoyens
 
 105
 00:12:24.280 --> 00:12:28.000
@@ -427,19 +427,19 @@ et non pas au marché tel qu’il est pensé par une entreprise.
 
 106
 00:12:28.040 --> 00:12:34.320
-Microsoft Office, par exemple, est un logiciel où vous avez une liberté d’utilisation très restreinte, 
+Microsoft Office, par exemple, est un logiciel où vous avez une liberté d’utilisation très restreinte,
 
 107
 00:12:34.400 --> 00:12:37.720
-parce que, en fait, vous achetez généralement une licence pour un usage personnel. 
+parce que, en fait, vous achetez généralement une licence pour un usage personnel.
 
 108
 00:12:37.800 --> 00:12:40.960
-Si vous voulez l’utiliser sur plusieurs postes, vous achetez une licence pour plusieurs postes, 
+Si vous voulez l’utiliser sur plusieurs postes, vous achetez une licence pour plusieurs postes,
 
 109
 00:12:41.320 --> 00:12:42.720
-vous n’avez pas le code source, 
+vous n’avez pas le code source,
 
 110
 00:12:43.040 --> 00:12:45.760
@@ -447,11 +447,11 @@ vous ne pouvez donc pas étudier le code source, vous ne pouvez pas le modifier.
 
 111
 00:12:45.800 --> 00:12:48.040
-Le fait d’avoir accès à ce code source 
+Le fait d’avoir accès à ce code source
 
 112
 00:12:48.120 --> 00:12:52.560
-va nous permettre de pouvoir regarder ce que fait ce logiciel. 
+va nous permettre de pouvoir regarder ce que fait ce logiciel.
 
 113
 00:12:53.040 --> 00:12:57.240
@@ -459,7 +459,7 @@ En nous autorisant, en plus, à copier et à reprendre un certain nombre de part
 
 114
 00:12:57.760 --> 00:13:00.080
-d’avoir systématiquement à tout recoder. 
+d’avoir systématiquement à tout recoder.
 
 115
 00:13:00.640 --> 00:13:04.200
@@ -467,7 +467,7 @@ Et on va pouvoir pouvoir l’adapter finalement à nos besoins d’utilisateurs
 
 116
 00:13:04.320 --> 00:13:10.000
-et non pas au marché présupposé par une entreprise qui va dire 
+et non pas au marché présupposé par une entreprise qui va dire
 
 117
 00:13:10.080 --> 00:13:13.120
@@ -475,7 +475,7 @@ et non pas au marché présupposé par une entreprise qui va dire
 
 118
 00:13:13.160 --> 00:13:16.160
-Aujourd’hui, quand vous utilisez un logiciel propriétaire, 
+Aujourd’hui, quand vous utilisez un logiciel propriétaire,
 
 119
 00:13:21.840 --> 00:13:25.080
@@ -483,7 +483,7 @@ vous êtes, quelque part, pieds et poings liés avec ce logiciel propriétaire.
 
 120
 00:13:35.000 --> 00:13:41.960
-Avec le temps, Stallman s’est rendu compte qu’on pouvait faire une distinction plus importante en disant « privateur », 
+Avec le temps, Stallman s’est rendu compte qu’on pouvait faire une distinction plus importante en disant « privateur »,
 
 121
 00:13:42.640 --> 00:13:47.880
@@ -491,7 +491,7 @@ c’est-à-dire que ce logiciel qui garde le code source pour lui, il vous prive
 
 122
 00:13:47.920 --> 00:13:53.760
-Effectivement, un logiciel propriétaire est par définition un logiciel privateur de libertés. 
+Effectivement, un logiciel propriétaire est par définition un logiciel privateur de libertés.
 
 123
 00:13:54.120 --> 00:13:57.680
@@ -499,7 +499,7 @@ C’est de là que l’on caractérise aussi la notion de logiciel libre.
 
 124
 00:13:58.720 --> 00:14:03.960
-La liberté de l’utilisateur est plus importante que la rentabilité, 
+La liberté de l’utilisateur est plus importante que la rentabilité,
 
 125
 00:14:04.320 --> 00:14:08.120
@@ -507,7 +507,7 @@ l’économie ou ainsi de suite. C’est toujours l’utilisateur qui va être p
 
 126
 00:14:08.320 --> 00:14:14.120
-Si un jour, pour un logiciel privateur, un éditeur décide d’arrêter telle version du logiciel, 
+Si un jour, pour un logiciel privateur, un éditeur décide d’arrêter telle version du logiciel,
 
 127
 00:14:14.320 --> 00:14:18.320
@@ -515,15 +515,15 @@ personne, derrière, ne peut le reprendre, parce que personne n’a le droit de 
 
 128
 00:14:18.880 --> 00:14:24.240
-Microsoft Money, c'est un logiciel, par exemple, de gestion de comptes personnels,  
+Microsoft Money, c'est un logiciel, par exemple, de gestion de comptes personnels,
 
 129
 00:14:24.320 --> 00:14:28.240
-qui a, quelque part, fermé il y a maintenant quelques années. 
+qui a, quelque part, fermé il y a maintenant quelques années.
 
 130
 00:14:28.480 --> 00:14:35.160
-Logiciel phare de Microsoft, du jour au lendemain Microsoft change sa politique d’édition, 
+Logiciel phare de Microsoft, du jour au lendemain Microsoft change sa politique d’édition,
 
 131
 00:14:35.320 --> 00:14:37.720
@@ -531,11 +531,11 @@ décide que c’est un logiciel qui n’est plus rentable
 
 132
 00:14:38.000 --> 00:14:41.520
-ce n’est même pas l’entreprise qui fait faillite, ce n’est pas un problème technique, 
+ce n’est même pas l’entreprise qui fait faillite, ce n’est pas un problème technique,
 
 133
 00:14:41.800 --> 00:14:49.040
-c’est un changement de politique – et, du jour au lendemain, vous avez des utilisateurs qui ont utilisé ce logiciel pendant des années, 
+c’est un changement de politique – et, du jour au lendemain, vous avez des utilisateurs qui ont utilisé ce logiciel pendant des années,
 
 134
 00:14:49.400 --> 00:14:55.000
@@ -543,7 +543,7 @@ des fois des décennies, qui se retrouvent, quelque part, le bec dans l’eau, s
 
 135
 00:14:58.400 --> 00:15:03.040
-Le droit à l’interopérabilité, l’échange mutuel des données, est un droit pour le consommateur 
+Le droit à l’interopérabilité, l’échange mutuel des données, est un droit pour le consommateur
 
 136
 00:15:03.120 --> 00:15:06.120
@@ -555,11 +555,11 @@ On se heurte là à une vraie différence de fond entre
 
 138
 00:15:10.040 --> 00:15:14.000
-le logiciel libre et ce qu’on appelle le logiciel propriétaire ou logiciel privateur. 
+le logiciel libre et ce qu’on appelle le logiciel propriétaire ou logiciel privateur.
 
 139
 00:15:15.200 --> 00:15:18.600
-Ce sont, d’un côté, des logiciels qui visent à être utiles aux utilisateurs 
+Ce sont, d’un côté, des logiciels qui visent à être utiles aux utilisateurs
 
 140
 00:15:19.120 --> 00:15:23.120
@@ -567,26 +567,26 @@ et, d’un autre côté, des logiciels qui visent à répondre à un marché.
 
 141
 00:15:23.160 --> 00:15:25.160
-Il n’y a que le logiciel libre qui permet 
+Il n’y a que le logiciel libre qui permet
 
 142
 00:15:25.240 --> 00:15:28.360
-de garantir qu’un logiciel ne fera pas de mal à ses utilisateurs. 
+de garantir qu’un logiciel ne fera pas de mal à ses utilisateurs.
 
 143
 00:15:28.640 --> 00:15:33.720
 Pour un logiciel non libre, on ne sait pas ! Peut-être, peut-être pas !
 
 144
-Le logiciel libre porte des valeurs éthiques et sociales 
+Le logiciel libre porte des valeurs éthiques et sociales
 
 145
 00:15:39.560 --> 00:15:46.040
-et, dans ces valeurs sociales, la notion de communauté et de solidarité est importante. 
+et, dans ces valeurs sociales, la notion de communauté et de solidarité est importante.
 
 146
 00:15:46.240 --> 00:15:50.800
-Richard Stallman, le fondateur du mouvement du logiciel libre, 
+Richard Stallman, le fondateur du mouvement du logiciel libre,
 
 147
 00:15:51.360 --> 00:15:57.720
@@ -598,19 +598,19 @@ D’habitude, la salle se lève en liesse et applaudit.
 
 149
 00:16:25.400 --> 00:16:28.640
-Ce triptyque, Liberté, Égalité, Fraternité, 
+Ce triptyque, Liberté, Égalité, Fraternité,
 
 150
 00:16:28.720 --> 00:16:32.040
-en dehors du fait qu’il nous touche parce que nous sommes Français, 
+en dehors du fait qu’il nous touche parce que nous sommes Français,
 
 151
 00:16:32.640 --> 00:16:38.000
-il a cet avantage de ne pas exclure, justement, le côté fraternité. 
+il a cet avantage de ne pas exclure, justement, le côté fraternité.
 
 152
 00:16:38.080 --> 00:16:41.640
-Ce n’est pas qu’un mouvement technique, c’est aussi un mouvement social ; 
+Ce n’est pas qu’un mouvement technique, c’est aussi un mouvement social ;
 
 153
 00:16:42.160 --> 00:16:45.800
@@ -618,19 +618,19 @@ ce mouvement social se traduit essentiellement au travers des communautés.
 
 154
 00:16:59.200 --> 00:17:01.200
-Un logiciel libre est un bien commun. 
+Un logiciel libre est un bien commun.
 
 155
 00:17:01.360 --> 00:17:05.560
-Un bien commun, c’est une ressource qui est gérée collectivement 
+Un bien commun, c’est une ressource qui est gérée collectivement
 
 156
 00:17:05.640 --> 00:17:10.040
-par une communauté qui décide des règles de gestion de cette ressource. 
+par une communauté qui décide des règles de gestion de cette ressource.
 
 157
 00:17:10.400 --> 00:17:15.480
-Cette communauté va décider de comment ce logiciel doit fonctionner. 
+Cette communauté va décider de comment ce logiciel doit fonctionner.
 
 158
 00:17:15.560 --> 00:17:23.240
@@ -638,15 +638,15 @@ On va donc devoir discuter les uns avec les autres pour savoir si on veut que ce
 
 159
 00:17:23.600 --> 00:17:29.720
-La culture la plus dense, la plus vibrante, la plus étoffée, 
+La culture la plus dense, la plus vibrante, la plus étoffée,
 
 160
 00:17:29.840 --> 00:17:31.440
-c’est quand même souvent dans les communautés du logiciel libre. 
+c’est quand même souvent dans les communautés du logiciel libre.
 
 161
 00:17:38.960 --> 00:17:43.680
-D’abord, ce sont des grands collectifs qui ont une certaine exigence, y compris à cause de leur culture de 
+D’abord, ce sont des grands collectifs qui ont une certaine exigence, y compris à cause de leur culture de
 
 162
 00:17:43.680 --> 00:17:49.960
@@ -654,11 +654,11 @@ documenter, de dialoguer, de se proposer des versions différentes des logiciels
 
 163
 00:17:50.000 --> 00:17:54.080
-On est dans l’échange d’idées : « Regarde-la, compare-la, améliore-la, fais ta variante ». 
+On est dans l’échange d’idées : « Regarde-la, compare-la, améliore-la, fais ta variante ».
 
 164
 00:18:01.200 --> 00:18:03.640
-Finalement, on ne va retenir que la meilleure. 
+Finalement, on ne va retenir que la meilleure.
 
 165
 00:18:03.880 --> 00:18:09.160
@@ -666,11 +666,11 @@ C’est une coopétition entre les différents projets, c’est-à-dire une coop
 
 166
 00:18:09.200 --> 00:18:12.080
-Ce sont des communautés qui ont une sorte de maturité, 
+Ce sont des communautés qui ont une sorte de maturité,
 
 167
 00:18:12.160 --> 00:18:15.160
-d’intelligence du code et de l’usage. 
+d’intelligence du code et de l’usage.
 
 168
 00:18:17.520 --> 00:18:21.000
@@ -678,7 +678,7 @@ On sent bien qu’il y a quelque chose à jouer avec toutes ces communautés-là
 
 169
 00:18:21.040 --> 00:18:24.480
-Et tous ensemble, on devient bien plus intelligents parce qu’on s’appuie les uns sur les autres, 
+Et tous ensemble, on devient bien plus intelligents parce qu’on s’appuie les uns sur les autres,
 
 170
 00:18:24.800 --> 00:18:28.960
@@ -686,27 +686,27 @@ on s’entraide, on se concurrence et on progresse très très vite.
 
 171
 00:18:29.280 --> 00:18:32.680
-Vingt-cinq mille contributeurs, comme c’est le cas de la communauté Drupal, 
+Vingt-cinq mille contributeurs, comme c’est le cas de la communauté Drupal,
 
 172
 00:18:32.720 --> 00:18:37.560
-apportent et, au final, vont toujours créer un logiciel de meilleure qualité 
+apportent et, au final, vont toujours créer un logiciel de meilleure qualité
 
 173
 00:18:37.760 --> 00:18:39.920
-et plus important, plus mature, 
+et plus important, plus mature,
 
 174
-00:18:40.120 --> 
+00:18:40.120 -->
 qu’une dizaine d’informaticiens qui vont créer un logiciel propriétaire.
 
 175
 00:18:44.160 --> 00:18:49.120
-Les modifications, les rajouts de fonctionnalités, les corrections de bogues ne dépendent pas du choix d’un seul éditeur 
+Les modifications, les rajouts de fonctionnalités, les corrections de bogues ne dépendent pas du choix d’un seul éditeur
 
 176
 00:18:49.320 --> 00:18:51.800
-qui a ses propres critères économiques, 
+qui a ses propres critères économiques,
 
 177
 00:18:52.880 --> 00:18:58.200
@@ -714,15 +714,15 @@ mais dépendent simplement de l’ensemble des développeurs ou de l’ensemble 
 
 178
 00:18:58.440 --> 00:19:02.320
-Il y a une énorme différence avec les communautés de Photoshop, par exemple, 
+Il y a une énorme différence avec les communautés de Photoshop, par exemple,
 
 179
 00:19:02.520 --> 00:19:03.600
-qui est un logiciel extrêmement connu, 
+qui est un logiciel extrêmement connu,
 
 180
 00:19:03.840 --> 00:19:08.680
-sur lequel on va trouver des milliers de forums sur Internet, avec des centaines de milliers d’utilisateurs 
+sur lequel on va trouver des milliers de forums sur Internet, avec des centaines de milliers d’utilisateurs
 
 181
 00:19:08.760 --> 00:19:14.840
@@ -730,11 +730,11 @@ qui débattent de comment bien utiliser ce logiciel, mais ils n’ont aucun pouv
 
 182
 00:19:28.880 --> 00:19:31.800
-L’idée du logiciel libre est de dire que la communauté, 
+L’idée du logiciel libre est de dire que la communauté,
 
 183
 00:19:31.960 --> 00:19:38.160
-derrière, va pouvoir influer beaucoup plus largement sur la façon doit évoluer ce logiciel, 
+derrière, va pouvoir influer beaucoup plus largement sur la façon doit évoluer ce logiciel,
 
 184
 00:19:38.280 --> 00:19:43.560
@@ -746,11 +746,11 @@ Faire une fourche, en français, fork, en anglais.
 
 186
 00:19:47.720 --> 00:19:50.880
-Et dire : « Je ne suis pas d’accord avec la direction que prend ce logiciel, 
+Et dire : « Je ne suis pas d’accord avec la direction que prend ce logiciel,
 
 187
 00:19:50.960 --> 00:19:55.280
-je vais donc en faire un nouveau basé à 100 % sur le logiciel original. 
+je vais donc en faire un nouveau basé à 100 % sur le logiciel original.
 
 188
 00:19:55.360 --> 00:19:58.160
@@ -758,19 +758,19 @@ Je le copie, je le colle et je lui fais prendre une autre route. »
 
 189
 00:19:58.680 --> 00:20:01.800
-Après, il y a un problème de compétences, on est d’accord. 
+Après, il y a un problème de compétences, on est d’accord.
 
 190
 00:20:02.160 --> 00:20:05.360
-Tout le monde n’est pas en capacité de développer un logiciel, 
+Tout le monde n’est pas en capacité de développer un logiciel,
 
 191
 00:20:05.400 --> 00:20:07.880
-de rajouter des fonctionnalités à un logiciel. 
+de rajouter des fonctionnalités à un logiciel.
 
 192
 00:20:08.240 --> 00:20:12.200
-Mais, d’abord, ça ouvre une porte qui est de dire que c’est possible 
+Mais, d’abord, ça ouvre une porte qui est de dire que c’est possible
 
 193
 00:20:12.560 --> 00:20:21.880
@@ -778,43 +778,43 @@ et, ensuite, ça permet de reporter sur d’autres, la capacité, justement, d�
 
 194
 00:20:22.160 --> 00:20:24.760
-C’est comme en démocratie. 
+C’est comme en démocratie.
 
 195
 00:20:30.720 --> 00:20:36.080
-En démocratie, vous n’allez pas vérifier le compte de tous les bureaux de vote. 
+En démocratie, vous n’allez pas vérifier le compte de tous les bureaux de vote.
 
 196
 00:20:36.120 --> 00:20:37.800
-Vous faites confiance à des assesseurs, 
+Vous faites confiance à des assesseurs,
 
 197
 00:20:37.880 --> 00:20:41.040
-vous faites confiance à d’autres citoyens qui sont allés vérifier. 
+vous faites confiance à d’autres citoyens qui sont allés vérifier.
 
 198
 00:20:41.600 --> 00:20:47.720
-Il y a un contrôle mutuel de plusieurs personnes, donc, globalement, vous faites confiance au résultat. 
+Il y a un contrôle mutuel de plusieurs personnes, donc, globalement, vous faites confiance au résultat.
 
 199
 00:20:47.840 --> 00:20:53.000
-Là c’est la même chose : vous ne vérifiez pas que le logiciel est parfait, a été fait comme ça. 
+Là c’est la même chose : vous ne vérifiez pas que le logiciel est parfait, a été fait comme ça.
 
 200
 00:20:53.040 --> 00:20:56.360
-Par contre, vous pouvez faire confiance à une communauté d’informaticiens, 
+Par contre, vous pouvez faire confiance à une communauté d’informaticiens,
 
 201
 00:20:56.400 --> 00:20:59.640
-qui sont de plus en plus nombreux aujourd’hui, qui comprennent le code 
+qui sont de plus en plus nombreux aujourd’hui, qui comprennent le code
 
 202
 00:20:59.800 --> 00:21:03.280
-et qui sont capables de vous dire que le logiciel que vous 
+et qui sont capables de vous dire que le logiciel que vous
 
 203
 00:21:03.320 --> 00:21:06.920
-êtes en train de faire tourner sur votre machine est bien la recette que vous avez. 
+êtes en train de faire tourner sur votre machine est bien la recette que vous avez.
 
 204
 00:21:07.080 --> 00:21:10.920
@@ -822,19 +822,19 @@ Et, de la même façon, vous pouvez demander à quelqu’un d’autre de faire l
 
 205
 00:21:10.960 --> 00:21:14.720
-Dans cette communauté, il y a toujours plein de gens qui vont aller auditer 
+Dans cette communauté, il y a toujours plein de gens qui vont aller auditer
 
 206
 00:21:14.800 --> 00:21:19.200
-ces codes sources, ces logiciels ou ces services sur Internet. 
+ces codes sources, ces logiciels ou ces services sur Internet.
 
 207
 00:21:19.280 --> 00:21:21.120
-Même si moi je ne peux pas le faire, 
+Même si moi je ne peux pas le faire,
 
 208
 00:21:21.480 --> 00:21:24.520
-il y aura quelqu’un qui pourra le faire et il y aura quelqu’un qui va le faire 
+il y aura quelqu’un qui pourra le faire et il y aura quelqu’un qui va le faire
 
 209
 00:21:24.600 --> 00:21:26.360
@@ -842,11 +842,11 @@ et ce sera fait de manière transparente.
 
 210
 00:21:26.400 --> 00:21:31.680
-Je ne suis pas comptable, mais je trouve important de savoir que les comptes de la Nation sont publics. 
+Je ne suis pas comptable, mais je trouve important de savoir que les comptes de la Nation sont publics.
 
 211
 00:21:32.440 --> 00:21:36.960
-Le fait que je n’aille pas, moi, regarder combien a coûté ce rond-point, 
+Le fait que je n’aille pas, moi, regarder combien a coûté ce rond-point,
 
 212
 00:21:37.440 --> 00:21:42.760
@@ -854,7 +854,7 @@ ne m’empêche pas de vouloir et de militer pour que ces chiffres soient rendus
 
 213
 00:21:42.800 --> 00:21:46.000
-Ça veut dire qu’il y a la vigilance 
+Ça veut dire qu’il y a la vigilance
 
 214
 00:21:54.440 --> 00:21:57.640
@@ -862,19 +862,19 @@ des communautés pour ceux qui ne sont pas informaticiens.
 
 215
 00:21:59.080 --> 00:22:02.720
-Il existe des communautés d’utilisateurs, qui ne sont pas des développeurs, 
+Il existe des communautés d’utilisateurs, qui ne sont pas des développeurs,
 
 216
 00:22:02.840 --> 00:22:06.080
-mais qui participent pleinement au développement du logiciel libre 
+mais qui participent pleinement au développement du logiciel libre
 
 217
 00:22:06.160 --> 00:22:10.800
-en remontant soit des bogues, des demandes d’améliorations, 
+en remontant soit des bogues, des demandes d’améliorations,
 
 218
 00:22:10.960 --> 00:22:15.880
-soit des nouveaux besoins, des demandes d’adaptation d’ergonomie 
+soit des nouveaux besoins, des demandes d’adaptation d’ergonomie
 
 219
 00:22:16.440 --> 00:22:19.760
@@ -882,7 +882,7 @@ ou de nouvelles façons de faire fonctionner le logiciel.
 
 220
 00:22:19.920 --> 00:22:22.920
-On en vient, finalement, à comment on passe d’une société de la consommation 
+On en vient, finalement, à comment on passe d’une société de la consommation
 
 221
 00:22:23.040 --> 00:22:25.840
@@ -898,19 +898,19 @@ je sais que, potentiellement, chacun va pouvoir contribuer, apporter sa pierre �
 
 224
 00:22:34.680 --> 00:22:36.920
-Si on veut, à un moment donné, ne pas 
+Si on veut, à un moment donné, ne pas
 
 225
 00:22:37.560 --> 00:22:40.480
-avoir une société qui soit complètement à deux vitesses avec, d’un côté, 
+avoir une société qui soit complètement à deux vitesses avec, d’un côté,
 
 226
 00:22:40.560 --> 00:22:42.520
-ceux qui vont maîtriser le numérique 
+ceux qui vont maîtriser le numérique
 
 227
 00:22:42.960 --> 00:22:46.480
-et ceux qui seront, finalement, les prolétaires du numérique, 
+et ceux qui seront, finalement, les prolétaires du numérique,
 
 228
 00:22:47.240 --> 00:22:49.720
@@ -918,11 +918,11 @@ il va falloir pouvoir les rapprocher.
 
 229
 00:22:49.880 --> 00:22:51.720
-On est vraiment à une frontière, je pense, à un moment 
+On est vraiment à une frontière, je pense, à un moment
 
 230
 00:22:51.760 --> 00:22:56.680
-où on peut tourner vers un monde de partage, de transparence, de respect de la vie privée, 
+où on peut tourner vers un monde de partage, de transparence, de respect de la vie privée,
 
 231
 00:22:56.760 --> 00:22:59.840
@@ -930,12 +930,12 @@ ou alors où on peut aller vers un monde de plus en plus compliqué, justement p
 
 232
 00:23:00.000 --> 00:23:07.960
-Le rôle de l’école est essentiel là-dedans. 
+Le rôle de l’école est essentiel là-dedans.
 Il est essentiel qu’on enseigne aux enfants à comprendre ce monde-là et à trouver les réponses les plus adaptées.
 
 233
 00:23:08.840 --> 00:23:16.040
-Microsoft a offert 13 millions d’euros de logiciels à l’Éducation nationale. 
+Microsoft a offert 13 millions d’euros de logiciels à l’Éducation nationale.
 
 234
 00:23:16.120 --> 00:23:18.280
@@ -943,7 +943,7 @@ Enfin, là ce n’est pas un contrat, c’est du mécénat !
 
 235
 00:23:18.480 --> 00:23:21.080
-On n’a pas vu venir qu’ils détourneraient 
+On n’a pas vu venir qu’ils détourneraient
 
 236
 00:23:21.960 --> 00:23:27.040
@@ -951,7 +951,7 @@ la question des appels d’offres et des marchés en proposant, finalement, du m
 
 237
 00:23:27.080 --> 00:23:29.960
-Les enfants vont être formés aux produits de Microsoft. 
+Les enfants vont être formés aux produits de Microsoft.
 
 238
 00:23:30.040 --> 00:23:34.280
@@ -959,15 +959,15 @@ Là c’est sûr, quand ils quittent l’école, ils vont continuer à utiliser 
 
 239
 00:23:34.360 --> 00:23:37.440
-Le but de Microsoft, ce n’est pas d’apprendre l’informatique aux gens. 
+Le but de Microsoft, ce n’est pas d’apprendre l’informatique aux gens.
 
 240
 00:23:37.600 --> 00:23:40.280
-Pour apprendre l’informatique, il faut apprendre l’informatique globale, 
+Pour apprendre l’informatique, il faut apprendre l’informatique globale,
 
 241
 00:23:40.320 --> 00:23:43.000
-il faut apprendre la diversité et rien de mieux, pour ça, que le logiciel libre. 
+il faut apprendre la diversité et rien de mieux, pour ça, que le logiciel libre.
 
 242
 00:23:43.080 --> 00:23:45.880
@@ -975,7 +975,7 @@ Le but de Microsoft c’est de créer des clients captifs.
 
 243
 00:23:45.920 --> 00:23:52.160
-Le fait de laisser rentrer l’industrie du logiciel à l’école, 
+Le fait de laisser rentrer l’industrie du logiciel à l’école,
 
 244
 00:23:52.240 --> 00:23:55.480
@@ -983,7 +983,7 @@ c’est un peu comme le dealer de drogue : la première dose est gratuite.
 
 245
 00:23:55.520 --> 00:23:58.480
-Elle va être gratuite, parce qu’il sait qu’il va créer un utilisateur captif, 
+Elle va être gratuite, parce qu’il sait qu’il va créer un utilisateur captif,
 
 246
 00:23:58.520 --> 00:24:00.840
@@ -995,7 +995,7 @@ Dans certains collèges, des tablettes ont été distribuées et ce sont des tab
 
 248
 00:24:27.960 --> 00:24:30.840
-Ils peuvent se permettre de mettre 13 millions d’euros sur la table, 
+Ils peuvent se permettre de mettre 13 millions d’euros sur la table,
 
 249
 00:24:31.080 --> 00:24:34.560
@@ -1007,11 +1007,11 @@ C’est tragique, parce que c’est de l’enfermement technologique.
 
 251
 00:24:37.800 --> 00:24:48.040
-À l’Éducation nationale, par exemple, on n’a aucune raison, notamment quand on est jeune, de commencer sur un Windows, sur Internet Explorer et Word. 
+À l’Éducation nationale, par exemple, on n’a aucune raison, notamment quand on est jeune, de commencer sur un Windows, sur Internet Explorer et Word.
 
 252
 00:24:48.480 --> 00:24:53.640
-Notamment pour des gens qui n’ont pas le bagage de 30 ans d’habitude des logiciels propriétaires, 
+Notamment pour des gens qui n’ont pas le bagage de 30 ans d’habitude des logiciels propriétaires,
 
 253
 00:24:53.720 --> 00:24:56.480
@@ -1019,19 +1019,19 @@ il n’y a aucune raison de les forcer à utiliser du logiciel propriétaire !
 
 254
 00:25:09.120 --> 00:25:12.560
-Il y a l’école de la liberté et il y a l’école des esclaves. 
+Il y a l’école de la liberté et il y a l’école des esclaves.
 
 255
 00:25:13.760 --> 00:25:19.840
-L’école de la liberté apprend aux enfants à réfléchir et à penser par eux-mêmes, 
+L’école de la liberté apprend aux enfants à réfléchir et à penser par eux-mêmes,
 
 256
 00:25:20.320 --> 00:25:23.080
-donc, à partir de là, oui, il leur faut du logiciel libre. 
+donc, à partir de là, oui, il leur faut du logiciel libre.
 
 257
 00:25:23.760 --> 00:25:29.880
-L’école des esclaves c’est leur apprendre à faire un métier, uniquement ce métier-là, et ne pas réfléchir au-delà. 
+L’école des esclaves c’est leur apprendre à faire un métier, uniquement ce métier-là, et ne pas réfléchir au-delà.
 
 258
 00:25:30.360 --> 00:25:34.160
@@ -1039,23 +1039,23 @@ Ce n’est pas la même école et ce ne sont pas les mêmes besoins derrière.
 
 259
 00:25:34.240 --> 00:25:37.120
-C’est vrai que là y a un paradoxe très fort. 
+C’est vrai que là y a un paradoxe très fort.
 
 260
 00:25:38.800 --> 00:25:48.640
-Comme son nom l’indique, je pense que l’Éducation nationale a pour vertu de conduire quelqu’un à l’écart. 
+Comme son nom l’indique, je pense que l’Éducation nationale a pour vertu de conduire quelqu’un à l’écart.
 
 261
 00:25:48.640 --> 00:25:51.400
-Ducere veut dire conduire, « ex », au-dehors. 
+Ducere veut dire conduire, « ex », au-dehors.
 
 262
 00:25:51.680 --> 00:25:57.240
-Éduquer, c’est amener quelqu’un à l’écart de ses préjugés, 
+Éduquer, c’est amener quelqu’un à l’écart de ses préjugés,
 
 263
 00:25:57.280 --> 00:26:07.160
-à l’écart de ses évidences immédiates pour lui faire adopter un recul critique. 
+à l’écart de ses évidences immédiates pour lui faire adopter un recul critique.
 
 264
 00:26:07.720 --> 00:26:14.040
@@ -1063,15 +1063,15 @@ Microsoft ne cherche pas nécessairement à amener les utilisateurs à un recul 
 
 265
 00:26:14.560 --> 00:26:18.240
-Quand, dans des choix politiques, on ne met pas les moyens financiers là où il faut, 
+Quand, dans des choix politiques, on ne met pas les moyens financiers là où il faut,
 
 266
 00:26:18.280 --> 00:26:19.600
-c’est-à-dire notamment dans l’éducation, 
+c’est-à-dire notamment dans l’éducation,
 
 267
 00:26:19.680 --> 00:26:23.160
-on est obligé de sous-traiter à des acteurs privés qui ont beaucoup d’argent 
+on est obligé de sous-traiter à des acteurs privés qui ont beaucoup d’argent
 
 268
 00:26:23.240 --> 00:26:26.760
@@ -1079,7 +1079,7 @@ et qui sont effectivement prêts eux, à « donner », entre guillemets, beaucou
 
 269
 00:26:26.800 --> 00:26:31.440
-La plupart des électeurs, semble-t-il, se prononce pour qu’il y ait une baisse du nombre de fonctionnaires. 
+La plupart des électeurs, semble-t-il, se prononce pour qu’il y ait une baisse du nombre de fonctionnaires.
 
 270
 00:26:32.080 --> 00:26:34.960
@@ -1087,15 +1087,15 @@ La plupart des électeurs, semble-t-il, se prononce pour qu’il y ait une baiss
 
 271
 00:26:35.000 --> 00:26:37.440
-Le problème ne vient pas de Microsoft ou de Google. 
+Le problème ne vient pas de Microsoft ou de Google.
 
 272
 00:26:37.520 --> 00:26:39.440
-Il vient avant tout des pouvoirs publics 
+Il vient avant tout des pouvoirs publics
 
 273
 00:26:39.520 --> 00:26:42.120
-qui ont fait le choix, effectivement, de ne pas investir 
+qui ont fait le choix, effectivement, de ne pas investir
 
 274
 00:26:42.200 --> 00:26:45.560
@@ -1103,60 +1103,60 @@ sur une informatique, on va dire, réellement citoyenne.
 
 275
 00:26:45.600 --> 00:26:50.160
-J’aime beaucoup prendre la métaphore de la laïcité, parce que 
+J’aime beaucoup prendre la métaphore de la laïcité, parce que
 
 276
 00:26:50.200 --> 00:26:55.800
-je me souviens aussi que pour la IIIᵉ République, 
-la laïcité, ce n’est pas seulement la neutralité devant toutes les opinions, 
-ça va un peu plus loin. 
+je me souviens aussi que pour la IIIᵉ République,
+la laïcité, ce n’est pas seulement la neutralité devant toutes les opinions,
+ça va un peu plus loin.
 
 277
 00:26:56.160 --> 00:26:59.160
-Pour Jules Ferry et ses amis, c’était aussi l’idée qu’il fallait 
+Pour Jules Ferry et ses amis, c’était aussi l’idée qu’il fallait
 
 278
 00:26:59.760 --> 00:27:02.640
-émanciper tous ces jeunes gens et ces jeunes femmes qu’on éduquait 
+émanciper tous ces jeunes gens et ces jeunes femmes qu’on éduquait
 
 279
 00:27:02.720 --> 00:27:09.160
-en les exposant au maximum possible d’idées 
-pour qu’ils fassent le choix le plus libre 
-et le plus éclairé possible quand ils seraient adultes. 
+en les exposant au maximum possible d’idées
+pour qu’ils fassent le choix le plus libre
+et le plus éclairé possible quand ils seraient adultes.
 
 280
 00:27:09.440 --> 00:27:12.720
-Il y avait donc une sorte de vision assez active de la laïcité qui était: 
+Il y avait donc une sorte de vision assez active de la laïcité qui était:
 
 281
 00:27:13.560 --> 00:27:21.360
-je cultive, je prépare et je travaille mon jugement et, ensuite, 
+je cultive, je prépare et je travaille mon jugement et, ensuite,
 je suis un citoyen émancipé et je prends des bonnes décisions en mon âme et conscience.
 
 282
 00:27:21.400 --> 00:27:24.480
-Ça pose quand même la question – encore une fois une question de société – 
+Ça pose quand même la question – encore une fois une question de société –
 
 283
 00:27:24.880 --> 00:27:29.400
-qui est celle de l’école républicaine où les marques, normalement, n’ont pas lieu d’être. 
+qui est celle de l’école républicaine où les marques, normalement, n’ont pas lieu d’être.
 
 284
 00:27:30.120 --> 00:27:37.000
-L’école a beau être laïque, ça reste un lieu différent – j’allais dire sacré – 
+L’école a beau être laïque, ça reste un lieu différent – j’allais dire sacré –
 
 285
 00:27:37.560 --> 00:27:43.000
-où le monde économique, normalement, n’a pas sa place. 
+où le monde économique, normalement, n’a pas sa place.
 
 286
 00:27:43.680 --> 00:27:48.680
-On n’a pas une cantine McDonald’s et, même dans les cantines qui sont, 
+On n’a pas une cantine McDonald’s et, même dans les cantines qui sont,
 
 287
 00:27:48.960 --> 00:27:51.240
-malheureusement, quasiment toutes fournies par Sodexo ou autres, 
+malheureusement, quasiment toutes fournies par Sodexo ou autres,
 
 288
 00:27:51.320 --> 00:27:54.320
@@ -1164,31 +1164,31 @@ on n’a pas un gros logo Sodexo quand les enfants rentrent.
 
 289
 00:27:54.560 --> 00:27:58.640
-Par contre, quand ils vont au CDI, dans leur salle de classe ou lorsqu’ils allument une tablette en cours, 
+Par contre, quand ils vont au CDI, dans leur salle de classe ou lorsqu’ils allument une tablette en cours,
 
 290
 00:27:58.760 --> 00:28:01.480
-ou lorsque l’enseignant allume son tableau numérique, 
+ou lorsque l’enseignant allume son tableau numérique,
 
 291
 00:28:01.520 --> 00:28:06.080
-un énorme logo Windows apparaît pendant 20 secondes, 10 fois, 20 fois par jour, 
+un énorme logo Windows apparaît pendant 20 secondes, 10 fois, 20 fois par jour,
 
 292
 00:28:06.240 --> 00:28:09.440
-devant les yeux des enfants, tous les jours, pendant qu’ils sont à l’école. 
+devant les yeux des enfants, tous les jours, pendant qu’ils sont à l’école.
 
 293
 00:28:09.560 --> 00:28:15.120
-Et cela, à priori, ne semble choquer personne, notamment pas le ministère de l’Éducation nationale 
+Et cela, à priori, ne semble choquer personne, notamment pas le ministère de l’Éducation nationale
 
 294
 00:28:15.560 --> 00:28:21.200
-qui dit : « De toute façon nous n’avons pas le choix, il y a des solutions Microsoft, il y a des solutions Apple 
+qui dit : « De toute façon nous n’avons pas le choix, il y a des solutions Microsoft, il y a des solutions Apple
 
 295
 00:28:21.360 --> 00:28:25.280
-et vous, le logiciel libre, vous n’êtes pas en capacité de lutter 
+et vous, le logiciel libre, vous n’êtes pas en capacité de lutter
 
 296
 00:28:26.280 --> 00:28:34.200
@@ -1196,11 +1196,11 @@ et de proposer des solutions face aux solutions de Microsoft, d’Apple et maint
 
 297
 00:28:34.240 --> 00:28:39.520
-On a un gouvernement, plusieurs même, qui favorisent des grosses entreprises, 
+On a un gouvernement, plusieurs même, qui favorisent des grosses entreprises,
 
 298
 00:28:39.720 --> 00:28:45.000
-donc un seul interlocuteur, plutôt que de favoriser des logiciels libres, 
+donc un seul interlocuteur, plutôt que de favoriser des logiciels libres,
 
 299
 00:28:45.080 --> 00:28:47.960
@@ -1208,7 +1208,7 @@ et là il y aurait plein d’interlocuteurs selon les besoins.
 
 300
 00:28:48.000 --> 00:28:53.840
-C’est vrai que l’État acheteur ne s’empresse pas forcément d’acheter infiniment de logiciels libres. 
+C’est vrai que l’État acheteur ne s’empresse pas forcément d’acheter infiniment de logiciels libres.
 
 301
 00:28:53.880 --> 00:28:58.280
@@ -1216,7 +1216,7 @@ Le logiciel libre a moins de visiteurs commerciaux, moins de marketing, moins de
 
 302
 00:28:58.360 --> 00:29:01.560
-Il y a beaucoup de lobbying en matière de logiciel propriétaire, 
+Il y a beaucoup de lobbying en matière de logiciel propriétaire,
 
 303
 00:29:02.000 --> 00:29:09.320
@@ -1228,7 +1228,7 @@ Quand vous avez les lobbyistes de Microsoft qui sont
 
 305
 00:29:12.160 --> 00:29:14.920
-cul et chemise avec les membres des cabinets ou les ministres, 
+cul et chemise avec les membres des cabinets ou les ministres,
 
 306
 00:29:15.200 --> 00:29:16.600
@@ -1236,11 +1236,11 @@ derrière, évidemment, c’est difficile de lutter.
 
 307
 00:29:16.640 --> 00:29:21.080
-Je trouve ça dommage, car plutôt que de faire travailler des entreprises françaises, locales, 
+Je trouve ça dommage, car plutôt que de faire travailler des entreprises françaises, locales,
 
 308
 00:29:21.160 --> 00:29:26.080
-avec des gens proches de chez nous, on va favoriser des grosses entreprises américaines, 
+avec des gens proches de chez nous, on va favoriser des grosses entreprises américaines,
 
 309
 00:29:26.280 --> 00:29:30.120
@@ -1248,11 +1248,11 @@ qui ont leur siège en Irlande et qui ne payent pas d’impôt en France.
 
 310
 00:29:30.640 --> 00:29:37.320
-Encore une fois, on est en train de déporter des compétences, des savoir-faire et surtout des contenus, 
+Encore une fois, on est en train de déporter des compétences, des savoir-faire et surtout des contenus,
 
 311
 00:29:37.800 --> 00:29:40.520
-y compris avec des données sensibles, privées, 
+y compris avec des données sensibles, privées,
 
 312
 00:29:41.040 --> 00:29:46.760
@@ -1260,15 +1260,15 @@ d’élèves qui sont mineurs et qui devraient être, à ce titre, protégés, a
 
 313
 00:29:49.760 --> 00:29:54.240
-Quand on en vient au domaine de la sécurité, le logiciel libre est bien meilleur 
+Quand on en vient au domaine de la sécurité, le logiciel libre est bien meilleur
 
 314
 00:29:54.320 --> 00:29:56.840
-parce que le code source est auditable. 
+parce que le code source est auditable.
 
 315
 00:29:56.880 --> 00:30:01.760
-On peut le lire, il a été lu, il a été lu de nombreuses fois, 
+On peut le lire, il a été lu, il a été lu de nombreuses fois,
 
 316
 00:30:01.840 --> 00:30:05.040
@@ -1276,23 +1276,23 @@ par des tas de personnes, dans des processus d’amélioration continue.
 
 317
 00:30:05.080 --> 00:30:08.960
-Auditer un code, c’est comme auditer une entreprise : on arrive, on regarde comment c’est 
+Auditer un code, c’est comme auditer une entreprise : on arrive, on regarde comment c’est
 
 318
 00:30:09.320 --> 00:30:12.200
-et on fait un compte-rendu sur ce qui va, ce qui ne va pas, 
+et on fait un compte-rendu sur ce qui va, ce qui ne va pas,
 
 319
 00:30:12.520 --> 00:30:14.960
-qui il faut virer, qui il ne faut pas virer, et ainsi de suite. 
+qui il faut virer, qui il ne faut pas virer, et ainsi de suite.
 
 320
 00:30:15.120 --> 00:30:20.840
-Pour un logiciel c’est pareil : on regarde, on teste, on balance des tests automatiques, 
+Pour un logiciel c’est pareil : on regarde, on teste, on balance des tests automatiques,
 
 321
 00:30:21.240 --> 00:30:26.000
-on regarde s’il n’y a pas des failles, si ce sont des failles connues, pas connues, 
+on regarde s’il n’y a pas des failles, si ce sont des failles connues, pas connues,
 
 322
 00:30:26.120 --> 00:30:29.120
@@ -1300,15 +1300,15 @@ et on dit ce qu’on voit.
 
 323
 00:30:29.600 --> 00:30:34.280
-La seule chance qu’ont les personnes qui font du logiciel propriétaire, 
+La seule chance qu’ont les personnes qui font du logiciel propriétaire,
 
 324
 00:30:34.360 --> 00:30:38.440
-c’est le fait que personne ne sache comment ça fonctionne exactement et que, du coup, 
+c’est le fait que personne ne sache comment ça fonctionne exactement et que, du coup,
 
 325
 00:30:38.600 --> 00:30:43.200
-par obscurantisme du fonctionnement, on masque 
+par obscurantisme du fonctionnement, on masque
 
 326
 00:30:43.520 --> 00:30:48.240
@@ -1316,11 +1316,11 @@ les failles qui existent dans le logiciel, mais que seul le constructeur connaî
 
 327
 00:30:48.920 --> 00:30:51.680
-On a vu que, dans le monde du logiciel privatif, 
+On a vu que, dans le monde du logiciel privatif,
 
 328
 00:30:52.240 --> 00:30:54.960
-des failles qui avaient été annoncées 
+des failles qui avaient été annoncées
 
 329
 00:30:55.200 --> 00:31:01.760
@@ -1328,7 +1328,7 @@ sont restées béantes pendant six mois, huit mois, parce que l’entreprise éd
 
 330
 00:31:01.800 --> 00:31:04.440
-Il y a des failles de sécurité qui sont connues 
+Il y a des failles de sécurité qui sont connues
 
 331
 00:31:05.320 --> 00:31:10.560
@@ -1336,15 +1336,15 @@ dans Internet Explorer, dans Windows, et qui ne sont toujours pas corrigées par
 
 332
 00:31:10.600 --> 00:31:14.040
-Ce qu’on a pu voir aussi dans des équipements réseaux, 
+Ce qu’on a pu voir aussi dans des équipements réseaux,
 
 333
 00:31:14.320 --> 00:31:19.240
-c’est que quelqu’un a donné à l’entreprise une information en disant « là, il y a une faille », 
+c’est que quelqu’un a donné à l’entreprise une information en disant « là, il y a une faille »,
 
 334
 00:31:19.680 --> 00:31:21.600
-et les gens ont dit « oui, on va la corriger » 
+et les gens ont dit « oui, on va la corriger »
 
 335
 00:31:21.800 --> 00:31:25.960
@@ -1352,27 +1352,27 @@ et, en fait, ils ne l’ont pas corrigée, ils ont mieux caché la faille dans l
 
 336
 00:31:26.160 --> 00:31:31.560
-Ce qui explique que tout dispositif qui est mis sur le commerce 
+Ce qui explique que tout dispositif qui est mis sur le commerce
 
 337
 00:31:31.760 --> 00:31:34.520
-est potentiellement porteur de failles, 
+est potentiellement porteur de failles,
 
 338
 00:31:34.600 --> 00:31:38.320
-parce que les États qui sont derrière les entreprises, ou les entreprises elles-mêmes 
+parce que les États qui sont derrière les entreprises, ou les entreprises elles-mêmes
 
 338
 00:31:38.320 --> 00:31:40.440
-pour un certain confort de mise à jour, 
+pour un certain confort de mise à jour,
 
 339
 00:31:40.640 --> 00:31:44.840
-laissent béantes les portes-fenêtres du jardin, 
+laissent béantes les portes-fenêtres du jardin,
 
 340
 00:31:44.920 --> 00:31:48.960
-alors qu’on vous a installé une porte blindée avec 12⁓000 verrous 
+alors qu’on vous a installé une porte blindée avec 12⁓000 verrous
 
 341
 00:31:49.160 --> 00:31:50.920
@@ -1380,7 +1380,7 @@ sur votre porte principale.
 
 342
 00:32:07.600 --> 00:32:10.920
-Une backdoor est une fonctionnalité non prévue dans un logiciel, 
+Une backdoor est une fonctionnalité non prévue dans un logiciel,
 
 343
 00:32:11.560 --> 00:32:14.760
@@ -1388,11 +1388,11 @@ qui permet de faire des choses à l’insu de son détenteur.
 
 344
 00:32:37.200 --> 00:32:41.840
-Si vous êtes très malin, vous pouvez cacher une backdoor dans un logiciel libre, 
+Si vous êtes très malin, vous pouvez cacher une backdoor dans un logiciel libre,
 
 345
 00:32:42.280 --> 00:32:44.640
-c’est juste qu’il y a beaucoup plus de risques que les gens s’en rendent compte, 
+c’est juste qu’il y a beaucoup plus de risques que les gens s’en rendent compte,
 
 346
 00:32:44.840 --> 00:32:48.440
@@ -1400,7 +1400,7 @@ parce qu’il y a plus de gens qui s’en servent, qui le triturent, qui le modi
 
 347
 00:32:48.600 --> 00:32:52.440
-Et c’est quelque chose d’essentiel puisque ça permet, à ce moment-là, 
+Et c’est quelque chose d’essentiel puisque ça permet, à ce moment-là,
 
 348
 00:32:52.720 --> 00:32:56.880
@@ -1408,15 +1408,15 @@ de vérifier que le logiciel ne fait pas des choses dans votre dos.
 
 349
 00:32:57.480 --> 00:33:03.000
-Ça évite de se confier à des logiciels qui exécutent des choses sans savoir exactement si, 
+Ça évite de se confier à des logiciels qui exécutent des choses sans savoir exactement si,
 
 350
 00:33:03.040 --> 00:33:11.400
-à notre insu, ils ne font pas intervenir aussi bien une surveillance, aussi bien une récolte de métadonnées, 
+à notre insu, ils ne font pas intervenir aussi bien une surveillance, aussi bien une récolte de métadonnées,
 
 351
 00:33:12.120 --> 00:33:16.160
-aussi bien des formes de contrôle qui, elles, 
+aussi bien des formes de contrôle qui, elles,
 
 352
 00:33:16.200 --> 00:33:26.200
@@ -1424,19 +1424,19 @@ relèveraient de l’hétéronomie, c’est-à-dire d’une forme de prise de po
 
 353
 00:33:26.720 --> 00:33:28.800
-C’est aussi ça l’intérêt du logiciel libre, 
+C’est aussi ça l’intérêt du logiciel libre,
 
 354
 00:33:28.880 --> 00:33:30.400
-ça aide – 
+ça aide –
 
 355
 00:33:30.520 --> 00:33:34.040
-ce n’est pas non plus la solution miracle parce qu’il y a aussi des backdoors dans les logiciels libres, 
+ce n’est pas non plus la solution miracle parce qu’il y a aussi des backdoors dans les logiciels libres,
 
 356
 00:33:34.360 --> 00:33:35.800
-mais qui sont juste plus difficiles à mettre en place 
+mais qui sont juste plus difficiles à mettre en place
 
 357
 00:33:37.120 --> 00:33:43.960
@@ -1444,15 +1444,15 @@ mais qui sont juste plus difficiles à mettre en place
 
 358
 00:33:44.000 --> 00:33:46.880
-Le diable se cache dans les détails, on le sait. 
+Le diable se cache dans les détails, on le sait.
 
 359
 00:33:46.960 --> 00:33:52.560
-D’ailleurs, il y a beaucoup de faiblesses, de trous qui ont été trouvés dans les logiciels libres. 
+D’ailleurs, il y a beaucoup de faiblesses, de trous qui ont été trouvés dans les logiciels libres.
 
 360
 00:33:52.960 --> 00:33:57.680
-S’ils ont été trouvés c’est justement parce qu’il y a énormément de personnes qui auditent, 
+S’ils ont été trouvés c’est justement parce qu’il y a énormément de personnes qui auditent,
 
 361
 00:33:57.760 --> 00:34:01.840
@@ -1460,23 +1460,23 @@ regardent chaque détail et y passent vraiment du temps.
 
 362
 00:34:01.960 --> 00:34:05.560
-Produire du bon logiciel, sûr et sécuritaire, 
+Produire du bon logiciel, sûr et sécuritaire,
 
 363
 00:34:05.640 --> 00:34:11.080
-c’est-à-dire qui remplisse les fonctions qu’on attend de lui et qui ne fasse pas autre chose, 
+c’est-à-dire qui remplisse les fonctions qu’on attend de lui et qui ne fasse pas autre chose,
 
 364
 00:34:11.160 --> 00:34:14.680
-n’ouvre pas la porte à des pertes de données, des vols de données, 
+n’ouvre pas la porte à des pertes de données, des vols de données,
 
 365
 00:34:14.760 --> 00:34:16.440
-est extrêmement difficile. 
+est extrêmement difficile.
 
 366
 00:34:16.480 --> 00:34:22.640
-Les processus de production mis en place par le logiciel libre sont à peu près les seuls 
+Les processus de production mis en place par le logiciel libre sont à peu près les seuls
 
 367
 00:34:22.880 --> 00:34:24.800
@@ -1484,39 +1484,39 @@ qui fonctionnent dans ce type de situation.
 
 368
 00:34:24.840 --> 00:34:30.320
-Aujourd’hui, on n’a aucune assurance sur le fait qu’un logiciel propriétaire 
+Aujourd’hui, on n’a aucune assurance sur le fait qu’un logiciel propriétaire
 
 369
 00:34:30.600 --> 00:34:32.840
-va respecter les données de ses utilisateurs. 
+va respecter les données de ses utilisateurs.
 
 370
 00:34:33.040 --> 00:34:41.480
-Il peut s’y engager dans sa façon d’afficher les conditions générales d’utilisation, les mentions légales, etc., 
+Il peut s’y engager dans sa façon d’afficher les conditions générales d’utilisation, les mentions légales, etc.,
 
 371
 00:34:41.560 --> 00:34:43.400
-mais vous n’avez pas de moyen de le savoir. 
+mais vous n’avez pas de moyen de le savoir.
 
 372
 00:34:43.640 --> 00:34:48.680
-Donc, la vie privée des utilisateurs est forcément une délégation de confiance. 
+Donc, la vie privée des utilisateurs est forcément une délégation de confiance.
 
 373
 00:34:49.040 --> 00:34:53.560
-On fait confiance à Google ou on fait confiance au logiciel libre. 
+On fait confiance à Google ou on fait confiance au logiciel libre.
 
 374
 00:34:54.040 --> 00:35:00.080
-Notre discours est de dire que vous ne pouvez pas avoir confiance dans Microsoft ou Google : 
+Notre discours est de dire que vous ne pouvez pas avoir confiance dans Microsoft ou Google :
 
 375
 00:35:00.200 --> 00:35:06.200
-on a un certain nombre d’arguments, d’expériences et de faits 
+on a un certain nombre d’arguments, d’expériences et de faits
 
 376
 00:35:06.360 --> 00:35:10.080
-qui nous montrent que les données des utilisateurs sont récupérées, sont triées, 
+qui nous montrent que les données des utilisateurs sont récupérées, sont triées,
 
 377
 00:35:12.080 --> 00:35:18.640
@@ -1524,23 +1524,23 @@ servent, finalement, à profiler l’utilisateur, tout simplement parce que c’
 
 378
 00:35:18.680 --> 00:35:21.600
-Ils prennent vos données et ils les partagent. 
+Ils prennent vos données et ils les partagent.
 
 379
 00:35:22.360 --> 00:35:27.920
-Je n’ai pas de compte Facebook ; je n’ai pas envie que Facebook sache qui je connais. 
+Je n’ai pas de compte Facebook ; je n’ai pas envie que Facebook sache qui je connais.
 
 380
 00:35:29.200 --> 00:35:32.840
-Sauf que les gens qui me connaissent ont mon numéro de téléphone 
+Sauf que les gens qui me connaissent ont mon numéro de téléphone
 
 381
 00:35:32.960 --> 00:35:38.280
-et l’application Facebook connaît les numéros de téléphone qu’ils ont dans leur téléphone. 
+et l’application Facebook connaît les numéros de téléphone qu’ils ont dans leur téléphone.
 
 382
 00:35:38.560 --> 00:35:41.080
-Du coup, Facebook sait exactement qui je connais. 
+Du coup, Facebook sait exactement qui je connais.
 
 383
 00:35:43.640 --> 00:35:49.360
@@ -1548,11 +1548,11 @@ C’est un vrai problème ! Même quand on ne veut pas y aller, les autres nous 
 
 384
 00:35:51.000 -- 00:35:55.280
-Juste avec du machine learning, avec un traitement important de données, 
+Juste avec du machine learning, avec un traitement important de données,
 
 385
 00:35:56.000 --> 00:36:01.560
-il est possible de deviner des informations, qui sont parfois secrètes, sur vos proches. 
+il est possible de deviner des informations, qui sont parfois secrètes, sur vos proches.
 
 386
 00:36:03.240 --> 00:36:09.000
@@ -1564,11 +1564,11 @@ On aura des assureurs qui vont pouvoir, par exemple, faire varier
 
 388
 00:36:12.760 --> 00:36:18.880
-leur prime d’assurance en fonction d’éléments de profil qui échappent à tout le monde : 
+leur prime d’assurance en fonction d’éléments de profil qui échappent à tout le monde :
 
 389
 00:36:19.280 --> 00:36:23.280
-« il a été dans telle école quand il était jeune or, il y avait de l’amiante, 
+« il a été dans telle école quand il était jeune or, il y avait de l’amiante,
 
 390
 00:36:23.320 --> 00:36:26.720
@@ -1576,19 +1576,19 @@ donc, si je l’assure, il faut que je lui fasse payer plus cher ».
 
 391
 00:36:26.800 --> 00:36:29.760
-Effectivement, avec toutes les données qu’on va pouvoir avoir sur vous, 
+Effectivement, avec toutes les données qu’on va pouvoir avoir sur vous,
 
 392
-00:36:29.920 --> 00:36:33.760
-par exemple en suivant la vitesse de déplacement de votre smartphone 
+00:36:29.920 --> 00:36:33.600
+par exemple en suivant la vitesse de déplacement de votre smartphone
 
 393
-00:36:33.600 --> 00:36:37.920
-quand vous êtes censé conduire, on pourra savoir si vous êtes un conducteur nerveux ou pas nerveux. 
+00:36:33.760 --> 00:36:37.920
+quand vous êtes censé conduire, on pourra savoir si vous êtes un conducteur nerveux ou pas nerveux.
 
 394
 00:36:38.000 --> 00:36:41.600
-Partant de là, les gens peuvent vouloir dé-mutualiser le risque 
+Partant de là, les gens peuvent vouloir dé-mutualiser le risque
 
 395
 00:36:41.680 --> 00:36:45.720
@@ -1596,27 +1596,27 @@ en proposant des offres qui soient adaptées à chaque profil de personne.
 
 396
 00:36:45.760 --> 00:36:52.080
-On remplace ce qui peut s’appeler la violence 
+On remplace ce qui peut s’appeler la violence
 
 397
 00:36:53.360 --> 00:36:57.520
-d’une répression politique, ou d’un agencement politique, 
+d’une répression politique, ou d’un agencement politique,
 
 398
 00:36:58.240 --> 00:37:03.360
-par des formes technologiques qui ne sont pas soupçonnées 
+par des formes technologiques qui ne sont pas soupçonnées
 
 399
 00:37:04.080 --> 00:37:06.800
-de faire intervenir un rapport d’autorité, 
+de faire intervenir un rapport d’autorité,
 
 400
 00:37:08.080 --> 00:37:16.040
-qui s’imposent aux individus en empêchant ce potentiel d’autonomie 
+qui s’imposent aux individus en empêchant ce potentiel d’autonomie
 
 401
 00:37:16.520 --> 00:37:20.440
-de se manifester parce que des outils, 
+de se manifester parce que des outils,
 
 402
 00:37:21.400 --> 00:37:26.240
@@ -1624,11 +1624,11 @@ qui sont surdéterminés par d’autres, sont faciles à utiliser.
 
 403
 00:37:26.280 --> 00:37:29.840
-Comment savez-vous que l’application que vous avez téléchargée, 
+Comment savez-vous que l’application que vous avez téléchargée,
 
 404
 00:37:30.040 --> 00:37:33.720
-que ce petit jeu amusant, gratuit, n’est pas en train 
+que ce petit jeu amusant, gratuit, n’est pas en train
 
 405
 00:37:33.760 --> 00:37:38.920
@@ -1636,39 +1636,39 @@ de pomper votre carnet d’adresses pour l’envoyer à quelqu’un qui va reven
 
 406
 00:37:38.960 --> 00:37:42.720
-C’est aussi une atteinte à la vie privée que de collecter des informations 
+C’est aussi une atteinte à la vie privée que de collecter des informations
 
 407
 00:37:42.920 --> 00:37:47.480
-de façon extrêmement vaste tout simplement parce que, un jour, on a appuyé sur un bouton 
+de façon extrêmement vaste tout simplement parce que, un jour, on a appuyé sur un bouton
 
 408
 00:37:47.520 --> 00:37:50.320
-en téléchargeant une application type lampe de poche. 
+en téléchargeant une application type lampe de poche.
 
 409
-00:37:50.960 --> 00:37:54.680
-On télécharge une lampe de poche sur un store d’applications, 
+00:37:50.960 --> 00:37:54.640
+On télécharge une lampe de poche sur un store d’applications,
 
 410
-00:37:54.640 --> 00:38:02.000
-un magasin d’applications, que ce soit celui d’Apple, de Windows ou d’Android, donc de Google, 
+00:37:54.680 --> 00:38:02.000
+un magasin d’applications, que ce soit celui d’Apple, de Windows ou d’Android, donc de Google,
 
 411
 00:38:02.240 --> 00:38:06.640
-et puis ça vous dit « cette application va accéder à vos contacts, aux SMS, etc. » 
+et puis ça vous dit « cette application va accéder à vos contacts, aux SMS, etc. »
 
 412
 00:38:06.680 --> 00:38:08.320
-Le plus souvent, la plupart des gens cliquent « oui » 
+Le plus souvent, la plupart des gens cliquent « oui »
 
 413
 00:38:08.520 --> 00:38:12.240
-parce qu’ils veulent utiliser l’application lampe de poche, parce qu’ils ont besoin d’une lampe de poche là maintenant, tout de suite, 
+parce qu’ils veulent utiliser l’application lampe de poche, parce qu’ils ont besoin d’une lampe de poche là maintenant, tout de suite,
 
 414
 00:38:12.520 --> 00:38:16.040
-donc ils ne vont pas se poser la question de savoir à quoi ça a vraiment accès. 
+donc ils ne vont pas se poser la question de savoir à quoi ça a vraiment accès.
 
 415
 00:38:16.160 --> 00:38:19.760
@@ -1676,43 +1676,43 @@ Une application lampe de poche ne devrait pas avoir accès à vos SMS et à vos 
 
 416
 00:38:19.960 --> 00:38:23.080
-Quand je dis que j’ai besoin que mes données restent privées, 
+Quand je dis que j’ai besoin que mes données restent privées,
 
 417
 00:38:23.760 --> 00:38:25.480
-c’est parce que ce sont mes données. 
+c’est parce que ce sont mes données.
 
 418
 00:38:25.960 --> 00:38:29.480
-Je n’ai pas envie qu’elles soient redistribuées par le cloud de Windows. 
+Je n’ai pas envie qu’elles soient redistribuées par le cloud de Windows.
 
 419
 00:38:29.880 --> 00:38:33.280
-Ce sont mes données à moi. Windows va récupérer nos données 
+Ce sont mes données à moi. Windows va récupérer nos données
 
 420
 00:38:33.320 --> 00:38:36.160
-et faire ce qu’on appelle du ciblage. 
+et faire ce qu’on appelle du ciblage.
 
 421
 00:38:36.480 --> 00:38:38.800
-Ça va passer par une régie publicitaire 
+Ça va passer par une régie publicitaire
 
 422
 00:38:38.960 --> 00:38:40.320
-et puis je vais recevoir de la pub. 
+et puis je vais recevoir de la pub.
 
 423
 00:38:40.360 --> 00:38:44.200
-Alors, oui, je vais recevoir de la pub qui sera « ciblée » pour moi, 
+Alors, oui, je vais recevoir de la pub qui sera « ciblée » pour moi,
 
 424
 00:38:44.240 --> 00:38:48.440
-par rapport à mes recherches, par rapport à mes achats, par rapport, soi-disant, à mes besoins. 
+par rapport à mes recherches, par rapport à mes achats, par rapport, soi-disant, à mes besoins.
 
 425
 00:38:48.720 --> 00:38:53.840
-Mais pour moi cette publicité, quelle qu’elle soit, même si elle est ciblée, c’est intrusif. 
+Mais pour moi cette publicité, quelle qu’elle soit, même si elle est ciblée, c’est intrusif.
 
 426
 00:38:54.120 --> 00:38:56.360
@@ -1720,15 +1720,15 @@ On rentre dans mon intimité.
 
 427
 00:38:56.400 --> 00:38:59.880
-Dans mon métier de tous les jours, ça m’embête énormément. 
+Dans mon métier de tous les jours, ça m’embête énormément.
 
 428
 00:38:59.920 --> 00:39:03.320
-J’ai une obligation de confidentialité des données qui sont sur mon ordinateur. 
+J’ai une obligation de confidentialité des données qui sont sur mon ordinateur.
 
 429
 00:39:03.520 --> 00:39:08.080
-Si j’installe quelque chose qui fait que, automatiquement, les informations sont transmises, 
+Si j’installe quelque chose qui fait que, automatiquement, les informations sont transmises,
 
 430
 00:39:08.400 --> 00:39:12.120
@@ -1736,7 +1736,7 @@ eh bien je suis en violation de mon obligation de confidentialité.
 
 431
 00:39:12.160 --> 00:39:15.840
-Beaucoup de gens sont consommateurs de logiciels, et comment ça fonctionne ? 
+Beaucoup de gens sont consommateurs de logiciels, et comment ça fonctionne ?
 
 432
 00:39:15.920 --> 00:39:18.680
@@ -1748,19 +1748,19 @@ Les gens disent : « Je n’ai rien à cacher, je n’ai rien à me reprocher. �
 
 434
 00:39:22.320 --> 00:39:25.280
-J’aimerais bien avoir vos numéros de carte bleue et 
+J’aimerais bien avoir vos numéros de carte bleue et
 
 435
 00:39:25.320 --> 00:39:27.160
-savoir quelle est la dernière fois vous avez couché avec votre femme. 
+savoir quelle est la dernière fois vous avez couché avec votre femme.
 
 436
 00:39:27.320 --> 00:39:30.400
-Vous n’avez rien à cacher ! Il n’y a pas de problème, vous pouvez me donner l’information ! 
+Vous n’avez rien à cacher ! Il n’y a pas de problème, vous pouvez me donner l’information !
 
 437
 00:39:31.000 --> 00:39:36.760
-Et puis, en fait, vous avez un problème de santé ? Un problème à l’estomac ? 
+Et puis, en fait, vous avez un problème de santé ? Un problème à l’estomac ?
 
 438
 00:39:36.960 --> 00:39:42.560
@@ -1768,7 +1768,7 @@ Une déficience génétique, etc. ? Je ne vois pas pourquoi vous ne le dites pas
 
 439
 00:39:42.640 --> 00:39:45.640
-Ce n’est pas parce qu’on n’a rien à se reprocher qu’on ne nous reprochera rien ! 
+Ce n’est pas parce qu’on n’a rien à se reprocher qu’on ne nous reprochera rien !
 
 440
 00:39:45.680 --> 00:39:49.280
@@ -1776,39 +1776,39 @@ Ce n’est pas parce que vous n’avez rien à cacher que vous n’êtes pas une
 
 441
 00:39:49.320 --> 00:39:50.840
-Lorsqu’on se sait surveillé, 
+Lorsqu’on se sait surveillé,
 
 442
 00:39:50.880 --> 00:39:52.280
-on n’agit pas de la même façon. 
+on n’agit pas de la même façon.
 
 443
 00:39:52.480 --> 00:39:56.280
-Si vous savez que quand vous tapez « comment tuer quelqu’un, 
+Si vous savez que quand vous tapez « comment tuer quelqu’un,
 
 444
 00:39:56.480 --> 00:40:00.120
-comment enterrer ma femme » sur un moteur de recherche comme Google 
+comment enterrer ma femme » sur un moteur de recherche comme Google
 
 445
 00:40:00.160 --> 00:40:03.160
-et que, potentiellement, cette recherche peut être enregistrée, 
+et que, potentiellement, cette recherche peut être enregistrée,
 
 446
 00:40:03.280 --> 00:40:07.440
-surveillée, qu’elle peut lever une alerte dans un service quelconque, 
+surveillée, qu’elle peut lever une alerte dans un service quelconque,
 
 447
 00:40:07.520 --> 00:40:09.160
-vous n’allez pas taper cette recherche. 
+vous n’allez pas taper cette recherche.
 
 448
 00:40:09.360 --> 00:40:14.000
-Alors que vous êtes peut-être scénariste d’une série et 
+Alors que vous êtes peut-être scénariste d’une série et
 
 449
 00:40:14.680 --> 00:40:19.760
-vous tapez cette recherche juste parce que vous voulez répondre à une question que vous vous posez. 
+vous tapez cette recherche juste parce que vous voulez répondre à une question que vous vous posez.
 
 450
 00:40:19.760 --> 00:40:22.880
@@ -1816,15 +1816,15 @@ Ce n’est pas nécessairement que vous allez tuer et enterrer votre femme.
 
 451
 00:40:22.920 --> 00:40:30.000
-Priver quelqu’un de la possibilité de tenter des choses au-dehors, 
+Priver quelqu’un de la possibilité de tenter des choses au-dehors,
 
 452
 00:40:30.440 --> 00:40:36.760
-dans un espace intime qui est soit l’entre-soi, soit la philía, l’amitié, 
+dans un espace intime qui est soit l’entre-soi, soit la philía, l’amitié,
 
 453
 00:40:36.960 --> 00:40:40.840
-cette confiance qu’on fait à quelques-uns et pas aux autres, 
+cette confiance qu’on fait à quelques-uns et pas aux autres,
 
 454
 00:40:41.760 --> 00:40:44.000
@@ -1832,23 +1832,23 @@ il y a une forme de régression.
 
 455
 00:40:44.040 --> 00:40:50.240
-À partir du moment où tout est sur la place publique, où on n’a plus ce jardin secret à soi, 
+À partir du moment où tout est sur la place publique, où on n’a plus ce jardin secret à soi,
 
 456
 00:40:50.600 --> 00:40:56.320
-on ne peut plus réfléchir, parce que c’est dans son jardin secret qu’on réfléchit, 
+on ne peut plus réfléchir, parce que c’est dans son jardin secret qu’on réfléchit,
 
 457
 00:40:56.360 --> 00:40:57.600
-qu’on tient des raisonnements. 
+qu’on tient des raisonnements.
 
 458
 00:40:57.680 --> 00:41:04.320
-Si on n’a plus de vie privée, on tombe dans une société qui s’atrophie. 
+Si on n’a plus de vie privée, on tombe dans une société qui s’atrophie.
 
 459
 00:41:04.840 --> 00:41:10.480
-Un auteur [George Orwell] a écrit ça très bien, le livre s’appelle 1984. 
+Un auteur [George Orwell] a écrit ça très bien, le livre s’appelle 1984.
 
 460
 00:41:10.520 --> 00:41:13.240
@@ -1856,11 +1856,11 @@ Je pense qu’il est très très d’actualité.
 
 461
 00:41:13.280 --> 00:41:19.080
-Ça fait partie du droit de construction, par l’être humain, de lui-même. 
+Ça fait partie du droit de construction, par l’être humain, de lui-même.
 
 462
 00:41:19.680 --> 00:41:25.480
-Il faut au moins donner une chance à l’être humain de tenter, pour se construire, 
+Il faut au moins donner une chance à l’être humain de tenter, pour se construire,
 
 463
 00:41:25.880 --> 00:41:28.960
@@ -1868,7 +1868,7 @@ quelque chose que les autres ne voient pas.
 
 464
 00:41:29.000 --> 00:41:32.640
-Même si vous considérez que vous, 
+Même si vous considérez que vous,
 
 465
 00:41:32.680 --> 00:41:37.680
@@ -1880,15 +1880,15 @@ vous n’avez pas besoin de cette vie privée, parce que vous n’avez vraiment 
 
 467
 00:41:42.360 --> 00:41:46.160
-il y a des personnes qui ont besoin de ce droit à cette vie privée. 
+il y a des personnes qui ont besoin de ce droit à cette vie privée.
 
 468
 00:41:46.360 --> 00:41:52.440
-Ce sont des militants, des homosexuels, transsexuels, 
+Ce sont des militants, des homosexuels, transsexuels,
 
 469
 00:41:52.480 --> 00:41:55.080
-ils ont des maladies, ils sont trisomiques. 
+ils ont des maladies, ils sont trisomiques.
 
 470
 00:41:55.520 --> 00:41:59.720
@@ -1896,11 +1896,11 @@ Il y a 40 ans, l’homosexualité était pénalisée en France !
 
 471
 00:42:00.400 --> 00:42:02.240
-Pour la même raison que vous allez vous vacciner, 
+Pour la même raison que vous allez vous vacciner,
 
 472
 00:42:02.560 --> 00:42:08.000
-même si vous, vous n’en avez peut-être pas besoin, vous allez, en vous vaccinant, 
+même si vous, vous n’en avez peut-être pas besoin, vous allez, en vous vaccinant,
 
 473
 00:42:08.120 --> 00:42:13.880
@@ -1912,15 +1912,15 @@ On a tous un droit à la vie privée, c’est important, et vous avez tous quelq
 
 475
 00:42:23.600 --> 00:42:28.720
-Les gens qui installent aujourd’hui chez eux, de plus en plus, ce qu’on appelle des objets connectés, 
+Les gens qui installent aujourd’hui chez eux, de plus en plus, ce qu’on appelle des objets connectés,
 
 476
 00:42:28.840 --> 00:42:34.080
-des caméras de surveillance, par exemple, avec des logiciels dedans, forcément, pour qu’ils puissent fonctionner, 
+des caméras de surveillance, par exemple, avec des logiciels dedans, forcément, pour qu’ils puissent fonctionner,
 
 477
 00:42:34.560 --> 00:42:38.520
-installent un système privateur et ne savent pas où vont leurs données. 
+installent un système privateur et ne savent pas où vont leurs données.
 
 478
 00:42:39.720 --> 00:42:43.560
@@ -1928,15 +1928,15 @@ Tout le monde a quelque chose à cacher ! On n’a pas envie que quelqu’un reg
 
 479
 00:43:06.760 --> 00:43:11.480
-En français, on a appelé les DRM les « Mesures Techniques de Protection », 
+En français, on a appelé les DRM les « Mesures Techniques de Protection »,
 
 480
 00:43:11.800 --> 00:43:16.040
-c’est-à-dire que ce sont des mesures qu’on a prises pour protéger 
+c’est-à-dire que ce sont des mesures qu’on a prises pour protéger
 
 481
 00:43:16.400 --> 00:43:23.040
-le logiciel, le fichier, l’audio ou la vidéo qu’on a besoin de protéger. 
+le logiciel, le fichier, l’audio ou la vidéo qu’on a besoin de protéger.
 
 482
 00:43:24.000 --> 00:43:31.640
@@ -1948,11 +1948,11 @@ L’idée, en fait, du DRM, c’est d’empêcher les gens de faire une copie.
 
 484
 00:44:31.960 --> 00:44:35.200
-C’est véritablement une problématique, un enjeu de société : 
+C’est véritablement une problématique, un enjeu de société :
 
 485
 00:44:35.400 --> 00:44:41.040
-est-ce qu’on va accepter qu’une société, qu’une entreprise ou qu’un État 
+est-ce qu’on va accepter qu’une société, qu’une entreprise ou qu’un État
 
 486
 00:44:41.320 --> 00:44:43.960
@@ -1960,35 +1960,35 @@ nous surveille par le biais des logiciels qu’on installe ?
 
 487
 00:44:44.000 --> 00:44:47.400
-Le contre-coup des révélations d’Edward Snowden, 
+Le contre-coup des révélations d’Edward Snowden,
 
 488
 00:44:47.680 --> 00:44:52.760
-c’est quand même que ça a mis en valeur, au niveau mondial, 
+c’est quand même que ça a mis en valeur, au niveau mondial,
 
 489
 00:44:53.200 --> 00:44:54.640
-cette surveillance généralisée, 
+cette surveillance généralisée,
 
 490
 00:44:55.160 --> 00:44:59.800
-cette potentialité de pouvoir surveiller n’importe quel être humain sur la planète, 
+cette potentialité de pouvoir surveiller n’importe quel être humain sur la planète,
 
 491
 00:45:00.360 --> 00:45:04.280
-grâce à la concentration de quelques silos de données. 
+grâce à la concentration de quelques silos de données.
 
 492
 00:45:04.600 --> 00:45:11.280
-Ce qui a rendu possible, économiquement, cette surveillance généralisée, c’est le fait qu’il y avait très peu d’acteurs. 
+Ce qui a rendu possible, économiquement, cette surveillance généralisée, c’est le fait qu’il y avait très peu d’acteurs.
 
 493
 00:45:11.480 --> 00:45:13.960
-S’il n’y avait pas eu neuf acteurs, mais s’il y en avait eu 90, 
+S’il n’y avait pas eu neuf acteurs, mais s’il y en avait eu 90,
 
 494
 00:45:14.160 --> 00:45:19.400
-ça aurait déjà coûté beaucoup plus cher à la NSA et s’il y en avait eu non pas 90, mais 900, 
+ça aurait déjà coûté beaucoup plus cher à la NSA et s’il y en avait eu non pas 90, mais 900,
 
 495
 00:45:19.640 --> 00:45:22.600
@@ -2000,11 +2000,11 @@ On pense qu’il y a des collusions entre un certain nombre de grandes entrepris
 
 497
 00:45:26.880 --> 00:45:30.760
-Je ne citerai pas de noms, mais on peut se demander si certaines grandes entreprises, 
+Je ne citerai pas de noms, mais on peut se demander si certaines grandes entreprises,
 
 498
 00:45:30.960 --> 00:45:33.800
-très importantes pour l’économie de leur pays, n’ont pas elles-mêmes des accords 
+très importantes pour l’économie de leur pays, n’ont pas elles-mêmes des accords
 
 499
 00:45:34.320 --> 00:45:36.040
@@ -2012,15 +2012,15 @@ avec les autorités de leur pays.
 
 500
 00:45:37.080 --> 00:45:38.560
-Ce n’est pas supposé, c’est prouvé ! 
+Ce n’est pas supposé, c’est prouvé !
 
 501
 00:45:38.760 --> 00:45:42.000
-Il suffit de relire les révélations d’Edward Snowden. 
+Il suffit de relire les révélations d’Edward Snowden.
 
 502
 00:45:42.360 --> 00:45:46.320
-On sait que l’industrie du logiciel américain 
+On sait que l’industrie du logiciel américain
 
 503
 00:45:46.440 --> 00:45:50.280
@@ -2032,15 +2032,15 @@ La sécurité des États est mise à mal aujourd’hui, notamment par une chose 
 
 505
 00:46:00.880 --> 00:46:05.720
-les énormes silos de données dont on parle depuis tout à l’heure, 
+les énormes silos de données dont on parle depuis tout à l’heure,
 
 506
 00:46:06.400 --> 00:46:11.000
-les fameux GAFAM, notamment Google, Apple, Amazon, Facebook ou Microsoft, 
+les fameux GAFAM, notamment Google, Apple, Amazon, Facebook ou Microsoft,
 
 507
 00:46:11.320 -> 00:46:14.560
-sont toutes des entreprises étasuniennes 
+sont toutes des entreprises étasuniennes
 
 508
 00:46:15.520 --> 00:46:23.760
@@ -2048,11 +2048,11 @@ et quatre de ces cinq entreprises sont situées dans un petit carré de quelques
 
 509
 00:46:23.800 --> 00:46:26.800
-C’est pour ça que dans une stratégie de puissance, 
+C’est pour ça que dans une stratégie de puissance,
 
 510
 00:46:26.800 --> 00:46:30.360
-et qui exprime un désir de souveraineté numérique, 
+et qui exprime un désir de souveraineté numérique,
 
 511
 00:46:30.440 --> 00:46:35.600
@@ -2060,15 +2060,15 @@ la priorité au logiciel libre est une nécessité absolue.
 
 512
 00:46:35.640 --> 00:46:38.840
-Un État doit être souverain sur ses missions. 
+Un État doit être souverain sur ses missions.
 
 513
 00:46:39.520 --> 00:46:42.240
-Il y a des choses qui sont extrêmement importantes 
+Il y a des choses qui sont extrêmement importantes
 
 514
 00:46:42.800 --> 00:46:48.880
-et si l’État ne peut pas être certain que le logiciel fait bien ce qu’il promet de faire, 
+et si l’État ne peut pas être certain que le logiciel fait bien ce qu’il promet de faire,
 
 515
 00:46:50.480 --> 00:46:48.640
@@ -2076,7 +2076,7 @@ il se met en danger.
 
 516
 00:46:51.520 --> 00:46:55.960
-On est loin d’être un pays débile, on n’est pas du tout dans les plus mauvais pays, mais 
+On est loin d’être un pays débile, on n’est pas du tout dans les plus mauvais pays, mais
 
 517
 00:46:56.160 --> 00:47:00.000
@@ -2084,27 +2084,27 @@ la puissance qu’ont atteint certains est extrême.
 
 518
 00:47:03.040 --> 00:47:04.200
-Quand on apprend que le téléphone d’Angela Merkel est sur écoute, 
+Quand on apprend que le téléphone d’Angela Merkel est sur écoute,
 
 519
 00:47:04.320 --> 00:47:06.280
-ça ne dérange personne ! 
+ça ne dérange personne !
 
 520
 00:47:06.960 --> 00:47:11.200
-Vous avez aujourd’hui, dans les entreprises qui produisent les smartphones, 
+Vous avez aujourd’hui, dans les entreprises qui produisent les smartphones,
 
 521
 00:47:12.360 --> 00:47:20.520
-Android par Google, Windows Phone par Microsoft et l’iPhone d’Apple ; c’est à peu près tout. 
+Android par Google, Windows Phone par Microsoft et l’iPhone d’Apple ; c’est à peu près tout.
 
 522
 00:47:21.280 --> 00:47:25.000
-Donc, à partir du moment où ces logiciels sont des boîtes noires, 
+Donc, à partir du moment où ces logiciels sont des boîtes noires,
 
 523
 00:47:25.200 --> 00:47:29.320
-ça veut dire que tout et n’importe quel téléphone sur la planète peut être mis sur écoute 
+ça veut dire que tout et n’importe quel téléphone sur la planète peut être mis sur écoute
 
 524
 00:47:29.400 --> 00:47:31.520
@@ -2112,7 +2112,7 @@ par les services de renseignement américains.
 
 525
 00:47:54.720 --> 00:47:57.160
-En France, en 2012, l’Élysée s’est fait pirater par la NSA. 
+En France, en 2012, l’Élysée s’est fait pirater par la NSA.
 
 526
 00:47:58.680 --> 00:48:09.560
@@ -2120,19 +2120,19 @@ L’Allemagne aussi a découvert que ses communications entre ambassades, par sa
 
 527
 00:48:18.360 --> 00:48:24.400
-J’ai des ordinateurs qui sont créés par des sociétés étrangères, 
+J’ai des ordinateurs qui sont créés par des sociétés étrangères,
 
 528
 00:48:24.480 --> 00:48:28.480
-avec des systèmes d’exploitation qui sont créés par des sociétés étrangères : 
+avec des systèmes d’exploitation qui sont créés par des sociétés étrangères :
 
 529
 00:48:28.560 --> 00:48:33.240
-quelle garantie ai-je, moi en tant qu’État, puisque je n’accède pas au code source, 
+quelle garantie ai-je, moi en tant qu’État, puisque je n’accède pas au code source,
 
 530
 00:48:33.520 --> 00:48:39.240
-que l’ensemble des informations qui transitent par mon ordinateur sont sécurisées ? 
+que l’ensemble des informations qui transitent par mon ordinateur sont sécurisées ?
 
 531
 00:48:39.320 --> 00:48:41.600
@@ -2140,19 +2140,19 @@ La réponse c’est : aucune.
 
 532
 00:48:41.640 --> 00:48:46.640
-Il y a des débats autour du fameux système d’exploitation souverain. 
+Il y a des débats autour du fameux système d’exploitation souverain.
 
 533
 00:48:47.240 --> 00:48:51.200
-Si on pense que souverain c’est « que l’on contrôle », « qui est loyal », 
+Si on pense que souverain c’est « que l’on contrôle », « qui est loyal »,
 
 534
 00:48:51.320 --> 00:48:55.640
-alors effectivement on peut avoir du souci à se faire ; et considérer qu’on veut avoir un système d’exploitation souverain, 
+alors effectivement on peut avoir du souci à se faire ; et considérer qu’on veut avoir un système d’exploitation souverain,
 
 535
 00:48:55.800 --> 00:48:59.040
-ça revient à dire qu’on pense que tous ceux qui existent déjà ne le sont pas. 
+ça revient à dire qu’on pense que tous ceux qui existent déjà ne le sont pas.
 
 536
 00:48:59.560 --> 00:49:02.560
@@ -2160,51 +2160,51 @@ Ce qui est, somme toute, une bonne supposition.
 
 537
 00:49:12.160 --> 00:49:07.640
-Tant qu’il reste un petit bout de logiciel dont on ne connaît pas exactement le fonctionnement, 
+Tant qu’il reste un petit bout de logiciel dont on ne connaît pas exactement le fonctionnement,
 
 538
 00:49:07.720 --> 00:49:11.280
-dont on n’a pas le code source et qui n’a pas été audité maintes et maintes fois, 
+dont on n’a pas le code source et qui n’a pas été audité maintes et maintes fois,
 
 539
 00:49:11.480 --> 00:49:14.080
 la sécurité est difficile.
 
 540
-00:49:14.120 --> 00:49:16.360
-C’est vrai que l’État, à l’heure où l’on se parle, 
+00:49:14.120 --> 00:49:16.320
+C’est vrai que l’État, à l’heure où l’on se parle,
 
 541
-00:49:16.320 --> 00:49:19.800
-a plutôt construit une sorte de neutralité, 
+00:49:16.360 --> 00:49:19.800
+a plutôt construit une sorte de neutralité,
 
 542
 00:49:20.120 --> 00:49:22.240
-c’est-à-dire, au moins, il a écrit noir sur blanc 
+c’est-à-dire, au moins, il a écrit noir sur blanc
 
 543
-00:49:21.280 --> 00:49:24.480
-que tous les achats publics doivent prendre au sérieux 
+00:49:22.360 --> 00:49:24.480
+que tous les achats publics doivent prendre au sérieux
 
 544
 00:49:24.760 --> 00:49:28.720
-les deux offres et traiter avec autant de respect et d’attention 
+les deux offres et traiter avec autant de respect et d’attention
 
 545
-00:49:28.760 --> 00:49:32.000
+00:49:28.760 --> 00:49:31.880
 les offres venant du monde du Libre que les offres commerciales.
 
 546
-00:49:31.880 --> 00:49:36.120
-Le ministère de la Défense a fait un contrat « Open Bar » avec Microsoft : 
+00:49:32.000 --> 00:49:36.120
+Le ministère de la Défense a fait un contrat « Open Bar » avec Microsoft :
 
 547
 00:49:36.360 --> 00:49:39.960
-« Vous pouvez utiliser tous nos logiciels, pour le même prix, 
+« Vous pouvez utiliser tous nos logiciels, pour le même prix,
 
 548
 00:49:40.120 --> 00:49:44.320
-et, tous les quatre ans, on signe à nouveau un contrat, on regarde combien vous avez utilisé, 
+et, tous les quatre ans, on signe à nouveau un contrat, on regarde combien vous avez utilisé,
 
 549
 00:49:44.360 --> 00:49:45.880
@@ -2212,7 +2212,7 @@ on réajuste le prix et ainsi de suite. »
 
 550
 00:49:45.920 --> 00:49:53.720
-Alors qu’on sait, par ailleurs, quelles sont les pratiques de Microsoft dans d’autres contextes, 
+Alors qu’on sait, par ailleurs, quelles sont les pratiques de Microsoft dans d’autres contextes,
 
 551
 00:49:54.440 --> 00:49:59.040
@@ -2220,7 +2220,7 @@ donc on ne sait pas si la notion de « Secret Défense » a encore véritablemen
 
 552
 00:49:59.080 --> 00:50:03.160
-C’est suicidaire aujourd’hui, parce qu’ils ont sur leurs ordinateurs des choses 
+C’est suicidaire aujourd’hui, parce qu’ils ont sur leurs ordinateurs des choses
 
 553
 00:50:04.000 --> 00:50:06.160
@@ -2228,15 +2228,15 @@ qui se passent sur lesquelles ils n’ont aucun contrôle.
 
 554
 00:50:06.200 --> 00:50:09.880
-En gros, plus vous allez vers des questions de sécurité, plus on vérifie quand même, 
+En gros, plus vous allez vers des questions de sécurité, plus on vérifie quand même,
 
 555
 00:50:10.120 --> 00:50:12.640
-ce qui n’empêche pas que dans le passé, dans certains pays, 
+ce qui n’empêche pas que dans le passé, dans certains pays,
 
 556
 00:50:12.760 --> 00:50:15.200
-on a découvert des pièges un peu tard. 
+on a découvert des pièges un peu tard.
 
 557
 00:50:16.960 --> 00:50:24.480
@@ -2244,15 +2244,15 @@ Les autorités compétentes considèrent qu’elles prennent les précautions re
 
 558
 00:50:24.480 --> 00:50:26.840
-En ce moment, j’ai peur de l’informatique industrielle. 
+En ce moment, j’ai peur de l’informatique industrielle.
 
 559
 00:50:26.960 --> 00:50:30.560
-Quand je vois, notamment dans le secteur de l’industrie de l’armement, 
+Quand je vois, notamment dans le secteur de l’industrie de l’armement,
 
 560
 00:50:30.880 --> 00:50:36.120
-qu’on est en train de donner délégation de tir à des intelligences artificielles. 
+qu’on est en train de donner délégation de tir à des intelligences artificielles.
 
 561
 00:50:36.480 --> 00:50:40.840
@@ -2260,7 +2260,7 @@ qu’on est en train de donner délégation de tir à des intelligences artifici
 
 562
 00:51:24.400 --> 00:51:28.320
-L’ancienne génération a vu des boîtes un peu magiques 
+L’ancienne génération a vu des boîtes un peu magiques
 
 563
 00:51:28.600 --> 00:51:34.920
@@ -2268,7 +2268,7 @@ et ne s’est pas posée la question de savoir les conséquences de l’usage de
 
 564
 00:51:35.000 --> 00:51:37.640
-Pour moi, il est important de rester très vigilants. 
+Pour moi, il est important de rester très vigilants.
 
 565
 00:51:37.920 --> 00:51:42.760
@@ -2276,11 +2276,11 @@ Exactement comme pendant la révolution industrielle, il ne faut pas que les pop
 
 566
 00:51:43.160 --> 00:51:47.480
-Il est urgent que chacun s’approprie ces questions et 
+Il est urgent que chacun s’approprie ces questions et
 
 567
 00:51:47.600 --> 00:51:53.720
-se rende compte qu’il faut intervenir sur la gestion politique qui est derrière, 
+se rende compte qu’il faut intervenir sur la gestion politique qui est derrière,
 
 568
 00:51:53.760 --> 00:51:56.160
@@ -2288,7 +2288,7 @@ parce que les lobbies sont extrêmement puissants.
 
 569
 00:51:56.440 -> 00:52:02.080
-Pour nous, le logiciel libre est un socle de base pour défendre une société libre à travers les libertés informatiques. 
+Pour nous, le logiciel libre est un socle de base pour défendre une société libre à travers les libertés informatiques.
 
 570
 00:52:02.160 --> 00:52:06.280
@@ -2296,11 +2296,11 @@ Elle n’est pas plus importante que les autres libertés, mais c’est un socle
 
 571
 00:52:06.360 --> 00:52:10.480
-C’est ce qui permet d’échapper aux chausse-trappes 
+C’est ce qui permet d’échapper aux chausse-trappes
 
 572
 00:52:11.120 --> 00:52:14.040
-ou aux faux-semblants 
+ou aux faux-semblants
 
 573
 00:52:14.280 --> 00:52:19.880
@@ -2308,7 +2308,7 @@ d’une technologie qui serait alors une gouvernementalité, c’est-à-dire un
 
 574
 00:52:19.960 --> 00:52:24.160
-soft power destiné à embrumer 
+soft power destiné à embrumer
 
 575
 00:52:25.040 --> 00:52:29.000
@@ -2316,7 +2316,7 @@ et à faire en sorte que ceux qui l’utilisent n’y voient que du feu.
 
 576
 00:52:30.400 --> 00:52:34.040
-Il est donc important de comprendre et de savoir ce qu’il se passe dans ses ordinateurs, 
+Il est donc important de comprendre et de savoir ce qu’il se passe dans ses ordinateurs,
 
 577
 00:52:34.120 --> 00:52:39.760
@@ -2328,11 +2328,11 @@ Le logiciel libre n’est pas une solution, c’est LA solution.
 
 579
 00:52:45.880 --> 00:52:53.200
-Au-delà même des arguments idéologiques qui suffisent à emporter la décision en termes de souveraineté, 
+Au-delà même des arguments idéologiques qui suffisent à emporter la décision en termes de souveraineté,
 
 580
 00:52:53.240 --> 00:52:59.160
-le fait de pouvoir fournir à chacun sur la planète 
+le fait de pouvoir fournir à chacun sur la planète
 
 581
 00:52:59.200 --> 00:53:03.760
@@ -2340,7 +2340,7 @@ du logiciel efficace, qu’il puisse adapter à ses besoins, c’est essentiel.
 
 582
 00:53:04.320 --> 00:53:08.840
-On a le choix d’éduquer les jeunes générations en disant 
+On a le choix d’éduquer les jeunes générations en disant
 
 583
 00:53:08.920 --> 00:53:12.160
@@ -2348,19 +2348,19 @@ On a le choix d’éduquer les jeunes générations en disant
 
 584
 00:53:14.480 --> 00:53:16.160
-Le logiciel est partout, 
+Le logiciel est partout,
 
 585
 00:53:16.240 --> 00:53:18.600
-dans toutes nos vies, dans toutes les applications, 
+dans toutes nos vies, dans toutes les applications,
 
 586
 00:53:18.960 --> 00:53:22.480
-demain dans votre pacemaker, et avoir la garantie, quelque part, 
+demain dans votre pacemaker, et avoir la garantie, quelque part,
 
 587
 00:53:22.680 --> 00:53:28.680
-que ce code source est ouvert, accessible, qu’on peut l’auditer,  le redistribuer, 
+que ce code source est ouvert, accessible, qu’on peut l’auditer,  le redistribuer,
 
 588
 00:53:28.800 --> 00:53:30.800
@@ -2368,15 +2368,15 @@ c’est quelque chose de fondamental.
 
 589
 00:53:31.360 --> 00:53:33.360
-Si quelque chose est publiable, 
+Si quelque chose est publiable,
 
 590
 00:53:33.360 --> 00:53:35.360
-si quelque chose est universalisable, 
+si quelque chose est universalisable,
 
 591
 00:53:36.080 --> 00:53:39.080
-s’il y a une transparence dans sa communication, 
+s’il y a une transparence dans sa communication,
 
 592
 00:53:40.080 --> 00:53:44.960
@@ -2384,11 +2384,11 @@ il y a peu de chances qu’il y ait des éléments nocifs.
 
 593
 00:53:45.680 --> 00:53:48.520
-On peut dire que le logiciel libre, par exemple, c’est du logiciel bio. 
+On peut dire que le logiciel libre, par exemple, c’est du logiciel bio.
 
 594
 00:53:48.560 --> 00:53:50.840
-On sait ce qu’il y a dedans, on sait comment il est fait, 
+On sait ce qu’il y a dedans, on sait comment il est fait,
 
 595
 00:53:50.960 --> 00:53:58.440
