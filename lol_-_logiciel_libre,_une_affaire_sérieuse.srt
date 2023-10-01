@@ -2039,7 +2039,7 @@ les énormes silos de données dont on parle depuis tout à l’heure,
 les fameux GAFAM, notamment Google, Apple, Amazon, Facebook ou Microsoft,
 
 507
-00:46:11.320 -> 00:46:14.560
+00:46:11.320 --> 00:46:14.560
 sont toutes des entreprises étasuniennes
 
 508
@@ -2067,11 +2067,11 @@ Un État doit être souverain sur ses missions.
 Il y a des choses qui sont extrêmement importantes
 
 514
-00:46:42.800 --> 00:46:48.880
+00:46:42.800 --> 00:46:48.640
 et si l’État ne peut pas être certain que le logiciel fait bien ce qu’il promet de faire,
 
 515
-00:46:50.480 --> 00:46:48.640
+00:46:48.880 --> 00:46:50.480
 il se met en danger.
 
 516
@@ -2079,7 +2079,7 @@ il se met en danger.
 On est loin d’être un pays débile, on n’est pas du tout dans les plus mauvais pays, mais
 
 517
-00:46:56.160 --> 00:47:00.000
+00:46:56.080 --> 00:47:00.000
 la puissance qu’ont atteint certains est extrême.
 
 518
@@ -2111,7 +2111,7 @@ Donc, à partir du moment où ces logiciels sont des boîtes noires,
 par les services de renseignement américains.
 
 525
-00:47:54.720 --> 00:47:57.160
+00:47:54.600 --> 00:47:57.160
 En France, en 2012, l’Élysée s’est fait pirater par la NSA.
 
 526
@@ -2159,7 +2159,7 @@ alors effectivement on peut avoir du souci à se faire ; et considérer qu’on 
 Ce qui est, somme toute, une bonne supposition.
 
 537
-00:49:12.160 --> 00:49:07.640
+00:49:02.600 --> 00:49:07.640
 Tant qu’il reste un petit bout de logiciel dont on ne connaît pas exactement le fonctionnement,
 
 538
